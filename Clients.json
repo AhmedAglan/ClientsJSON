@@ -1,0 +1,76 @@
+{
+    "ClientsList": [
+        {
+            "ClientID": 101010,
+            "CompanyName": "Demo",
+            "APIHost": "http://aglan.mywire.org",
+            "APIPath": "/DispatchAPI/"
+        },
+        {
+            "ClientID": 190101,
+            "CompanyName": "ABS Egypt",
+            "APIHost": "http://abs.mpsegypt.com",
+            "APIPath": "/DispatchAPI/"
+        },
+        {
+            "ClientID": 182209,
+            "CompanyName": "EGL",
+            "APIHost": "http://egl.mpsegypt.com",
+            "APIPath": "/DispatchAPI/"
+        },
+        {
+            "ClientID": 192810,
+            "CompanyName": "Syrfex",
+            "APIHost": "http://sd.mpsegypt.com",
+            "APIPath": "//"
+        },
+        {
+            "ClientID": 180104,
+            "CompanyName": "Zezo",
+            "APIHost": "http://sd.mpsegypt.com",
+            "APIPath": "/ZezoAPI/"
+        },
+        {
+            "ClientID": 191307,
+            "CompanyName": "Esh7enly",
+            "APIHost": "http://Esh7enly.mpsegypt.com:30001",
+            "APIPath": "/DispatchAPI/"
+        },
+        {
+            "ClientID": 150103,
+            "CompanyName": "Movex",
+            "APIHost": "http://movex.mpsegypt.com",
+            "APIPath": "/DispatchAPI/"
+        },
+        {
+            "ClientID": 180109,
+            "CompanyName": "Line Express",
+            "APIHost": "http://line.mpsegypt.com",
+            "APIPath": "/DispatchAPI/"
+        },
+        {
+            "ClientID": 192904,
+            "CompanyName": "On Spot",
+            "APIHost": "http://sd.mpsegypt.com",
+            "APIPath": "/OnSpotAPI/"
+        },
+        {
+            "ClientID": 202103,
+            "CompanyName": "Flash Express",
+            "APIHost": "http://sd.mpsegypt.com",
+            "APIPath": "/FalshExpressAPI/"
+        },
+        {
+            "ClientID": 201504,
+            "CompanyName": "Volo",
+            "APIHost": "http://sd.mpsegypt.com",
+            "APIPath": "/VoloAPI/"
+        },
+        {
+            "ClientID": 201601,
+            "CompanyName": "Kangaroo",
+            "APIHost": "http://kangraoo.myfirewall.co:30001",
+            "APIPath": "/DispatchAPI/"
+        }
+    ]
+}
