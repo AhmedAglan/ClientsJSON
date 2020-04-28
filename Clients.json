@@ -22,7 +22,7 @@
             "ClientID": 192810,
             "CompanyName": "Syrfex",
             "APIHost": "http://sd.mpsegypt.com",
-            "APIPath": "//"
+            "APIPath": "/SyrfexAPI/"
         },
         {
             "ClientID": 180104,
