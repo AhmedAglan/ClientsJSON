@@ -71,6 +71,12 @@
             "CompanyName": "Kangaroo",
             "APIHost": "http://kangraoo.myfirewall.co:30001",
             "APIPath": "/DispatchAPI/"
+        },
+        {
+            "ClientID": 200406,
+            "CompanyName": "Best Express",
+            "APIHost": "http://sd.mpsegypt.com",
+            "APIPath": "/BestAPI/"
         }
     ]
 }
