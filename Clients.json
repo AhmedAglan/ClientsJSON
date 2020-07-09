@@ -37,28 +37,10 @@
             "APIPath": "/DispatchAPI/"
         },
         {
-            "ClientID": 150103,
-            "CompanyName": "Movex",
-            "APIHost": "http://movex.mpsegypt.com",
-            "APIPath": "/DispatchAPI/"
-        },
-        {
             "ClientID": 180109,
             "CompanyName": "Line Express",
             "APIHost": "http://line.mpsegypt.com",
             "APIPath": "/DispatchAPI/"
-        },
-        {
-            "ClientID": 192904,
-            "CompanyName": "On Spot",
-            "APIHost": "http://sd.mpsegypt.com",
-            "APIPath": "/OnSpotAPI/"
-        },
-        {
-            "ClientID": 202103,
-            "CompanyName": "Flash Express",
-            "APIHost": "http://sd.mpsegypt.com",
-            "APIPath": "/FalshExpressAPI/"
         },
         {
             "ClientID": 201504,
@@ -77,6 +59,12 @@
             "CompanyName": "Best Express",
             "APIHost": "http://sd.mpsegypt.com",
             "APIPath": "/BestAPI/"
-        }
+        },
+        {
+            "ClientID": 202805,
+            "CompanyName": "Wassally",
+            "APIHost": "http://wassally.myfirewall.co:30001",
+            "APIPath": "/DispatchAPI/"
+        }                 
     ]
 }
