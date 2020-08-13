@@ -57,7 +57,7 @@
         {
             "ClientID": 200406,
             "CompanyName": "Best Express",
-            "APIHost": "http://sd.mpsegypt.com",
+            "APIHost": "http://api.bestexpresseg.com",
             "APIPath": "/BestAPI/"
         },
         {
