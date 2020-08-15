@@ -58,7 +58,7 @@
             "ClientID": 200406,
             "CompanyName": "Best Express",
             "APIHost": "https://api.bestexpresseg.com",
-            "APIPath": "/BestAPI/"
+            "APIPath": "/"
         },
         {
             "ClientID": 202805,
