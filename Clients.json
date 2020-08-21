@@ -21,7 +21,7 @@
         {
             "ClientID": 192810,
             "CompanyName": "Syrfex",
-            "APIHost": "http://sd.mpsegypt.com",
+            "APIHost": "http://a1.mpsegypt.com",
             "APIPath": "/SyrfexAPI/"
         },
         {
@@ -45,7 +45,7 @@
         {
             "ClientID": 201504,
             "CompanyName": "Volo",
-            "APIHost": "http://sd.mpsegypt.com",
+            "APIHost": "http://a1.mpsegypt.com",
             "APIPath": "/VoloAPI/"
         },
         {
