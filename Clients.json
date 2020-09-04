@@ -3,7 +3,7 @@
         {
             "ClientID": 101010,
             "CompanyName": "Demo",
-            "APIHost": "http://aglan.mywire.org",
+            "APIHost": "http://demo.mpsegypt.org",
             "APIPath": "/DispatchAPI/"
         },
         {
@@ -65,6 +65,12 @@
             "CompanyName": "Wassally",
             "APIHost": "http://wassally.myfirewall.co:30001",
             "APIPath": "/DispatchAPI/"
-        }                 
+        },                 
+        {
+            "ClientID": 200109,
+            "CompanyName": "APlus Express",
+            "APIHost": "http://aplus.mpsegypt.com",
+            "APIPath": "/APlusAPI/"
+        }
     ]
 }
