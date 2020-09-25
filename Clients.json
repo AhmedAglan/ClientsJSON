@@ -1,10 +1,10 @@
 {
     "ClientsList": [
         {
-            "ClientID": 101010,
+            "ClientID": 999999,
             "CompanyName": "Demo",
-            "APIHost": "http://demo.mpsegypt.org",
-            "APIPath": "/DispatchAPI/"
+            "APIHost": "http://a1.mpsegypt.org",
+            "APIPath": "/DemoAPI/"
         },
         {
             "ClientID": 190101,
