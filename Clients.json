@@ -71,6 +71,12 @@
             "CompanyName": "APlus Express",
             "APIHost": "http://aplus.mpsegypt.com",
             "APIPath": "/APlusAPI/"
+        },                 
+        {
+            "ClientID": 202609,
+            "CompanyName": "Pick & Go",
+            "APIHost": "http://PickAndGo.com-eg.net",
+            "APIPath": "/PickAndGoAPI/"
         }
     ]
 }
