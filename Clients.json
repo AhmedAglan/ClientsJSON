@@ -67,10 +67,10 @@
             "APIPath": "/DispatchAPI/"
         },                 
         {
-            "ClientID": 200109,
-            "CompanyName": "APlus Express",
-            "APIHost": "http://aplus.mpsegypt.com",
-            "APIPath": "/APlusAPI/"
+            "ClientID": 202110,
+            "CompanyName": "Eagle Express",
+            "APIHost": "http://eagle.com-eg.net",
+            "APIPath": "/EagleAPI/"
         },                 
         {
             "ClientID": 202609,
