@@ -3,7 +3,7 @@
         {
             "ClientID": 999999,
             "CompanyName": "Demo",
-            "APIHost": "http://a1.mpsegypt.com",
+            "APIHost": "https://a1.mpsegypt.com",
             "APIPath": "/DemoAPI/",
             "ApiVersion": 5
         },
