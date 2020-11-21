@@ -10,8 +10,8 @@
         {
             "ClientID": 190101,
             "CompanyName": "ABS Egypt",
-            "APIHost": "http://tracking.absegy.com",
-            "APIPath": "/DispatchAPI/",
+            "APIHost": "https://exab-eg.com",
+            "APIPath": "/ABSAPI/",
             "ApiVersion": 5
         },
         {
