@@ -10,7 +10,7 @@
         {
             "ClientID": 190101,
             "CompanyName": "ABS Egypt",
-            "APIHost": "http://abs.mpsegypt.com",
+            "APIHost": "http://tracking.absegy.com",
             "APIPath": "/DispatchAPI/",
             "ApiVersion": 5
         },
