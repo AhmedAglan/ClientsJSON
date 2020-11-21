@@ -3,7 +3,7 @@
         {
             "ClientID": 999999,
             "CompanyName": "Demo",
-            "APIHost": "http://a1.mpsegypt.com",
+            "APIHost": "https://exab-eg.com",
             "APIPath": "/DemoAPI/",
             "ApiVersion": 5
         },
@@ -80,14 +80,14 @@
         {
             "ClientID": 202110,
             "CompanyName": "Eagle Express",
-            "APIHost": "http://eagle.com-eg.net",
+            "APIHost": "https://exab-eg.com",
             "APIPath": "/EagleAPI/",
             "ApiVersion": 4
         },                 
         {
             "ClientID": 202609,
             "CompanyName": "Pick & Go",
-            "APIHost": "http://PickAndGo.com-eg.net",
+            "APIHost": "https://exab-eg.com",
             "APIPath": "/PickAndGoAPI/",
             "ApiVersion": 4
         }
