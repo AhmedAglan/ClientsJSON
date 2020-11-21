@@ -3,7 +3,7 @@
         {
             "ClientID": 999999,
             "CompanyName": "Demo",
-            "APIHost": "https://exab-eg.com",
+            "APIHost": "http://a1.mpsegypt.com",
             "APIPath": "/DemoAPI/",
             "ApiVersion": 5
         },
@@ -24,7 +24,7 @@
         {
             "ClientID": 192810,
             "CompanyName": "Syrfex",
-            "APIHost": "http://a1.mpsegypt.com",
+            "APIHost": "https://exab-eg.com",
             "APIPath": "/SyrfexAPI/",
             "ApiVersion": 4
         },
@@ -52,7 +52,7 @@
         {
             "ClientID": 201504,
             "CompanyName": "Volo",
-            "APIHost": "http://a1.mpsegypt.com",
+            "APIHost": "https://exab-eg.com",
             "APIPath": "/VoloAPI/",
             "ApiVersion": 4
         },
