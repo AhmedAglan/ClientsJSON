@@ -12,7 +12,7 @@
             "CompanyName": "ABS Egypt",
             "APIHost": "http://abs.mpsegypt.com",
             "APIPath": "/DispatchAPI/",
-            "ApiVersion": 4
+            "ApiVersion": 5
         },
         {
             "ClientID": 182209,
@@ -40,7 +40,7 @@
             "CompanyName": "Esh7enly",
             "APIHost": "http://Esh7enly.mpsegypt.com:15148",
             "APIPath": "/DispatchAPI/",
-            "ApiVersion": 4
+            "ApiVersion": 5
         },
         {
             "ClientID": 180109,
@@ -61,7 +61,7 @@
             "CompanyName": "Kangaroo",
             "APIHost": "http://kangraoo.myfirewall.co:30001",
             "APIPath": "/DispatchAPI/",
-            "ApiVersion": 4
+            "ApiVersion": 5
         },
         {
             "ClientID": 200406,
