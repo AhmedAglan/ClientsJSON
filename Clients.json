@@ -10,8 +10,8 @@
         {
             "ClientID": 190101,
             "CompanyName": "ABS Egypt",
-            "APIHost": "http://abs.mpsegypt.com",
-            "APIPath": "/DispatchAPI/",
+            "APIHost": "http://197.51.100.214",
+            "APIPath": "/ClientsAPI/",
             "ApiVersion": 5
         },
         {
