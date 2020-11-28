@@ -39,56 +39,56 @@
             "ClientID": 191307,
             "CompanyName": "Esh7enly",
             "APIHost": "http://Esh7enly.mpsegypt.com:15148",
-            "APIPath": "/DispatchAPI/",
+            "APIPath": "/DispatchAPI/api/",
             "ApiVersion": 0
         },
         {
             "ClientID": 180109,
             "CompanyName": "Line Express",
             "APIHost": "http://line.mpsegypt.com",
-            "APIPath": "/DispatchAPI/",
+            "APIPath": "/DispatchAPI/api/",
             "ApiVersion": 0
         },
         {
             "ClientID": 201504,
             "CompanyName": "Volo",
             "APIHost": "https://exab-eg.com",
-            "APIPath": "/VoloAPI/",
+            "APIPath": "/VoloAPI/api/",
             "ApiVersion": 0
         },
         {
             "ClientID": 201601,
             "CompanyName": "Kangaroo",
             "APIHost": "http://kangraoo.myfirewall.co:30001",
-            "APIPath": "/DispatchAPI/",
+            "APIPath": "/DispatchAPI/api/",
             "ApiVersion": 0
         },
         {
             "ClientID": 200406,
             "CompanyName": "Best Express",
             "APIHost": "https://api.bestexpresseg.com",
-            "APIPath": "/",
+            "APIPath": "/api/",
             "ApiVersion": 0
         },
         {
             "ClientID": 202805,
             "CompanyName": "Wassally",
             "APIHost": "http://wassally.myfirewall.co:30001",
-            "APIPath": "/DispatchAPI/",
+            "APIPath": "/DispatchAPI/api/",
             "ApiVersion": 0
         },                 
         {
             "ClientID": 202110,
             "CompanyName": "Eagle Express",
             "APIHost": "https://exab-eg.com",
-            "APIPath": "/EagleAPI/",
+            "APIPath": "/EagleAPI/api/",
             "ApiVersion": 0
         },                 
         {
             "ClientID": 202609,
             "CompanyName": "Pick & Go",
             "APIHost": "https://exab-eg.com",
-            "APIPath": "/PickAndGoAPI/",
+            "APIPath": "/PickAndGoAPI/api/",
             "ApiVersion": 0
         }
     ]
