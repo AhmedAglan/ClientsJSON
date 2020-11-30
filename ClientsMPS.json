@@ -5,21 +5,28 @@
             "CompanyName": "Demo",
             "APIHost": "https://exab-eg.com",
             "APIPath": "/DemoAPI/api/",
-            "ApiVersion": 0
+            "ApiVersion": 4
         },
         {
             "ClientID": 190101,
             "CompanyName": "ABS Egypt",
             "APIHost": "https://absegy.org",
             "APIPath": "/ABSAPI/api/",
-            "ApiVersion": 0
+            "ApiVersion": 4
+        },
+        {
+            "ClientID": 200101,
+            "CompanyName": "AMD Express",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/AMDAPI/api/",
+            "ApiVersion": 4
         },
         {
             "ClientID": 191307,
             "CompanyName": "Esh7enly",
             "APIHost": "http://Esh7enly.mpsegypt.com:15148",
             "APIPath": "/DispatchAPI/api/",
-            "ApiVersion": 0
+            "ApiVersion": 4
         },
         {
             "ClientID": 180109,
