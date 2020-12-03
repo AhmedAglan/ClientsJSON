@@ -55,6 +55,13 @@
             "APIHost": "http://wassally.myfirewall.co:30001",
             "APIPath": "/DispatchAPI/api/",
             "ApiVersion": 0
+        },
+        {
+            "ClientID": 140111,
+            "CompanyName": "GExpress",
+            "APIHost": "http://196.221.202.114",
+            "APIPath": "/DispatchAPI/api/",
+            "ApiVersion": 5
         }
     ]
 }
