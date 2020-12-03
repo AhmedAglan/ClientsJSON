@@ -90,6 +90,13 @@
             "APIHost": "https://exab-eg.com",
             "APIPath": "/PickAndGoAPI/",
             "ApiVersion": 4
+        },                 
+        {
+            "ClientID": 140111,
+            "CompanyName": "GExpress",
+            "APIHost": "http://196.221.202.114",
+            "APIPath": "/DispatchAPI/",
+            "ApiVersion": 4
         }
     ]
 }
