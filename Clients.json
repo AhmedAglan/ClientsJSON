@@ -10,8 +10,8 @@
         {
             "ClientID": 190101,
             "CompanyName": "ABS Egypt",
-            "APIHost": "41.32.225.24",
-            "APIPath": "/DispatchAPI/",
+            "APIHost": "https://exab-eg.com",
+            "APIPath": "/ABSAPI/",
             "ApiVersion": 5
         },
         {
