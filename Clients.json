@@ -4,70 +4,106 @@
             "ClientID": 999999,
             "CompanyName": "Demo",
             "APIHost": "https://exab-eg.com",
-            "APIPath": "/DemoAPI/api/",
-            "ApiVersion": 4
+            "APIPath": "/DemoAPI/",
+            "ApiVersion": 5
         },
         {
             "ClientID": 190101,
             "CompanyName": "ABS Egypt",
             "APIHost": "https://absegy.org",
-            "APIPath": "/ABSAPI/api/",
-            "ApiVersion": 4
+            "APIPath": "/ABSAPI/",
+            "ApiVersion": 5
         },
         {
-            "ClientID": 190102,
+            "ClientID": 190101,
             "CompanyName": "ABS Egypt2",
             "APIHost": "https://absegy.org:5051",
             "APIPath": "/api/",
+            "ApiVersion": 5
+        },        
+        {
+            "ClientID": 182209,
+            "CompanyName": "EGL",
+            "APIHost": "http://egl.mpsegypt.com",
+            "APIPath": "/DispatchAPI/",
             "ApiVersion": 4
-        },        {
-            "ClientID": 200101,
-            "CompanyName": "AMD Express",
-            "APIHost": "https://com-eg.net",
-            "APIPath": "/AMDAPI/api/",
+        },
+        {
+            "ClientID": 192810,
+            "CompanyName": "Syrfex",
+            "APIHost": "https://exab-eg.com",
+            "APIPath": "/SyrfexAPI/",
+            "ApiVersion": 4
+        },
+        {
+            "ClientID": 180104,
+            "CompanyName": "Zezo",
+            "APIHost": "http://sd.mpsegypt.com",
+            "APIPath": "/ZezoAPI/",
             "ApiVersion": 4
         },
         {
             "ClientID": 191307,
             "CompanyName": "Esh7enly",
             "APIHost": "http://Esh7enly.mpsegypt.com:15148",
-            "APIPath": "/DispatchAPI/api/",
-            "ApiVersion": 4
+            "APIPath": "/DispatchAPI/",
+            "ApiVersion": 5
         },
         {
             "ClientID": 180109,
             "CompanyName": "Line Express",
             "APIHost": "http://line.mpsegypt.com",
-            "APIPath": "/DispatchAPI/api/",
-            "ApiVersion": 0
+            "APIPath": "/DispatchAPI/",
+            "ApiVersion": 4
         },
         {
             "ClientID": 201504,
             "CompanyName": "Volo",
             "APIHost": "https://exab-eg.com",
-            "APIPath": "/VoloAPI/api/",
-            "ApiVersion": 0
+            "APIPath": "/VoloAPI/",
+            "ApiVersion": 4
         },
         {
             "ClientID": 201601,
             "CompanyName": "Kangaroo",
             "APIHost": "http://kangraoo.myfirewall.co:30001",
-            "APIPath": "/DispatchAPI/api/",
-            "ApiVersion": 0
+            "APIPath": "/DispatchAPI/",
+            "ApiVersion": 5
+        },
+        {
+            "ClientID": 200406,
+            "CompanyName": "Best Express",
+            "APIHost": "https://api.bestexpresseg.com",
+            "APIPath": "/",
+            "ApiVersion": 4
         },
         {
             "ClientID": 202805,
             "CompanyName": "Wassally",
             "APIHost": "http://wassally.myfirewall.co:30001",
-            "APIPath": "/DispatchAPI/api/",
-            "ApiVersion": 0
-        },
+            "APIPath": "/DispatchAPI/",
+            "ApiVersion": 4
+        },                 
+        {
+            "ClientID": 202110,
+            "CompanyName": "Eagle Express",
+            "APIHost": "https://exab-eg.com",
+            "APIPath": "/EagleAPI/",
+            "ApiVersion": 4
+        },                 
+        {
+            "ClientID": 202609,
+            "CompanyName": "Pick & Go",
+            "APIHost": "https://exab-eg.com",
+            "APIPath": "/PickAndGoAPI/",
+            "ApiVersion": 4
+        },                 
         {
             "ClientID": 140111,
             "CompanyName": "GExpress",
             "APIHost": "http://196.221.202.114",
-            "APIPath": "/DispatchAPI/api/",
-            "ApiVersion": 5
+            "APIPath": "/DispatchAPI/",
+            "ApiVersion": 4
         }
     ]
 }
