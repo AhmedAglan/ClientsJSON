@@ -18,7 +18,7 @@
             "ClientID": 190102,
             "CompanyName": "ABS Egypt 2",
             "APIHost": "https://absegy.org:5051",
-            "APIPath": "/api/",
+            "APIPath": "/",
             "ApiVersion": 5
         },        
         {
