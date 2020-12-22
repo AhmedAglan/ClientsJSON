@@ -52,8 +52,8 @@
         {
             "ClientID": 180109,
             "CompanyName": "Line Express",
-            "APIHost": "http://line.mpsegypt.com",
-            "APIPath": "/DispatchAPI/",
+            "APIHost": "http://line.mpsegypt.com:5050",
+            "APIPath": "/",
             "ApiVersion": 5
         },
         {
