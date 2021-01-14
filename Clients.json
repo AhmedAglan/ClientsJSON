@@ -80,7 +80,7 @@
         {
             "ClientID": 202805,
             "CompanyName": "Wassally",
-            "APIHost": "http://wassally.myfirewall.co:30001",
+            "APIHost": "http://wassally.ddns.net:30001",
             "APIPath": "/DispatchAPI/",
             "ApiVersion": 4
         },                 
@@ -104,13 +104,6 @@
             "APIHost": "http://196.221.202.114",
             "APIPath": "/DispatchAPI/",
             "ApiVersion": 4
-        },
-        {
-            "ClientID": 201511,
-            "CompanyName": "Fine Express",
-            "APIHost": "https://com-eg.net",
-            "APIPath": "/FineExpressApi/",
-            "ApiVersion": 5
-        } 
+        }
     ]
 }
