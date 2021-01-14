@@ -52,7 +52,7 @@
         {
             "ClientID": 202805,
             "CompanyName": "Wassally",
-            "APIHost": "http://wassally.myfirewall.co:30001",
+            "APIHost": "http://wassally.ddns.net:30001",
             "APIPath": "/DispatchAPI/api/",
             "ApiVersion": 0
         },
