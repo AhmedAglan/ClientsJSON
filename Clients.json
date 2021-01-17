@@ -104,6 +104,13 @@
             "APIHost": "http://196.221.202.114",
             "APIPath": "/DispatchAPI/",
             "ApiVersion": 4
+        },                 
+        {
+            "ClientID": 201511,
+            "CompanyName": "Fine Express",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/FineExpressAPI/",
+            "ApiVersion": 5
         }
     ]
 }
