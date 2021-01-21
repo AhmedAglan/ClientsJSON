@@ -111,6 +111,13 @@
             "APIHost": "https://com-eg.net",
             "APIPath": "/FineExpressAPI/",
             "ApiVersion": 5
+        },                 
+        {
+            "ClientID": 210601,
+            "CompanyName": "Link Chain",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/LinkChainAPI/",
+            "ApiVersion": 5
         }
     ]
 }
