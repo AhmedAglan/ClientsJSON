@@ -29,20 +29,6 @@
             "ApiVersion": 4
         },
         {
-            "ClientID": 192810,
-            "CompanyName": "Syrfex",
-            "APIHost": "https://exab-eg.com",
-            "APIPath": "/SyrfexAPI/",
-            "ApiVersion": 4
-        },
-        {
-            "ClientID": 180104,
-            "CompanyName": "Zezo",
-            "APIHost": "http://sd.mpsegypt.com",
-            "APIPath": "/ZezoAPI/",
-            "ApiVersion": 4
-        },
-        {
             "ClientID": 191307,
             "CompanyName": "Esh7enly",
             "APIHost": "http://Esh7enly.mpsegypt.com:15148",
@@ -114,6 +100,13 @@
         },                 
         {
             "ClientID": 210601,
+            "CompanyName": "Prime",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/PrimeAPI/",
+            "ApiVersion": 5
+        },                 
+        {
+            "ClientID": 211601,
             "CompanyName": "Link Chain",
             "APIHost": "https://com-eg.net",
             "APIPath": "/LinkChainAPI/",
