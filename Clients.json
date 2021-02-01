@@ -71,6 +71,13 @@
             "ApiVersion": 4
         },                 
         {
+            "ClientID": 211801,
+            "CompanyName": "Message-Express",
+            "APIHost": "http://api.message-express.com",
+            "APIPath": "/",
+            "ApiVersion": 5
+        },                 
+        {
             "ClientID": 202110,
             "CompanyName": "Eagle Express",
             "APIHost": "https://exab-eg.com",
