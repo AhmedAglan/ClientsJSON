@@ -118,6 +118,13 @@
             "APIHost": "https://com-eg.net",
             "APIPath": "/LinkChainAPI/",
             "ApiVersion": 5
+        },                 
+        {
+            "ClientID": 210102,
+            "CompanyName": "Operation",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/OperationAPI/",
+            "ApiVersion": 5
         }
     ]
 }
