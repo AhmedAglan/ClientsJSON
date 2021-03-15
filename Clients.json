@@ -125,6 +125,13 @@
             "APIHost": "https://com-eg.net",
             "APIPath": "/OperationAPI/",
             "ApiVersion": 5
+        },                 
+        {
+            "ClientID": 210103,
+            "CompanyName": "Medex",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/MedexAPI/",
+            "ApiVersion": 5
         }
     ]
 }
