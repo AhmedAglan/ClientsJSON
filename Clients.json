@@ -132,6 +132,13 @@
             "APIHost": "https://com-eg.net",
             "APIPath": "/MedexAPI/",
             "ApiVersion": 5
+        },                 
+        {
+            "ClientID": 212203,
+            "CompanyName": "Nasa",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/NasaAPI/",
+            "ApiVersion": 5
         }
     ]
 }
