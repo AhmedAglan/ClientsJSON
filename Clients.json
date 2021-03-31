@@ -43,13 +43,6 @@
             "ApiVersion": 5
         },
         {
-            "ClientID": 201504,
-            "CompanyName": "Volo",
-            "APIHost": "https://exab-eg.com",
-            "APIPath": "/VoloAPI/",
-            "ApiVersion": 4
-        },
-        {
             "ClientID": 201601,
             "CompanyName": "Kangaroo",
             "APIHost": "http://kangraoo.myfirewall.co:30001",
@@ -134,10 +127,10 @@
             "ApiVersion": 5
         },                 
         {
-            "ClientID": 212203,
-            "CompanyName": "Nasa",
+            "ClientID": 211701,
+            "CompanyName": "vHubs",
             "APIHost": "https://com-eg.net",
-            "APIPath": "/NasaAPI/",
+            "APIPath": "/vHubsAPI/",
             "ApiVersion": 5
         }
     ]
