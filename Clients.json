@@ -73,14 +73,14 @@
         {
             "ClientID": 202110,
             "CompanyName": "Eagle Express",
-            "APIHost": "https://exab-eg.com",
+            "APIHost": "https://com-eg.net",
             "APIPath": "/EagleAPI/",
             "ApiVersion": 4
         },                 
         {
             "ClientID": 202609,
             "CompanyName": "Pick & Go",
-            "APIHost": "https://exab-eg.com",
+            "APIHost": "https://com-eg.net",
             "APIPath": "/PickAndGoAPI/",
             "ApiVersion": 4
         },                 
