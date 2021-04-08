@@ -132,6 +132,13 @@
             "APIHost": "https://com-eg.net",
             "APIPath": "/vHubsAPI/",
             "ApiVersion": 5
-        }
+        },
+        {
+            "ClientID": 201504,
+            "CompanyName": "Volo",
+            "APIHost": "https://exab-eg.com",
+            "APIPath": "/VoloAPI/",
+            "ApiVersion": 5
+        }        
     ]
 }
