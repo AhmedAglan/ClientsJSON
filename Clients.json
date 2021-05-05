@@ -139,6 +139,13 @@
             "APIHost": "https://exab-eg.com",
             "APIPath": "/VoloAPI/",
             "ApiVersion": 5
-        }        
+        },
+        {
+            "ClientID": 211803,
+            "CompanyName": "Go Fly",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/GoFlyAPI/",
+            "ApiVersion": 5
+        }  
     ]
 }
