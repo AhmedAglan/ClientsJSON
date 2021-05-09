@@ -75,7 +75,7 @@
             "CompanyName": "Eagle Express",
             "APIHost": "https://com-eg.net",
             "APIPath": "/EagleAPI/",
-            "ApiVersion": 4
+            "ApiVersion": 5
         },                 
         {
             "ClientID": 202609,
