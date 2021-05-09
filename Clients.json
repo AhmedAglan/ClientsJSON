@@ -82,7 +82,7 @@
             "CompanyName": "Pick & Go",
             "APIHost": "https://com-eg.net",
             "APIPath": "/PickAndGoAPI/",
-            "ApiVersion": 4
+            "ApiVersion": 5
         },                 
         {
             "ClientID": 140111,
