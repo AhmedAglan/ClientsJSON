@@ -141,10 +141,10 @@
             "ApiVersion": 5
         },
         {
-            "ClientID": 211803,
-            "CompanyName": "Go Fly",
+            "ClientID": 210106,
+            "CompanyName": "Fast Mail",
             "APIHost": "https://com-eg.net",
-            "APIPath": "/GoFlyAPI/",
+            "APIPath": "/FastMailAPI/",
             "ApiVersion": 5
         }  
     ]
