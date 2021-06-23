@@ -33,35 +33,35 @@
             "CompanyName": "Line Express",
             "APIHost": "http://line.mpsegypt.com",
             "APIPath": "/DispatchAPI/api/",
-            "ApiVersion": 0
+            "ApiVersion": 4
         },
         {
             "ClientID": 201601,
             "CompanyName": "Kangaroo",
             "APIHost": "http://kangraoo.myfirewall.co:30001",
             "APIPath": "/DispatchAPI/api/",
-            "ApiVersion": 0
+            "ApiVersion": 4
         },
         {
             "ClientID": 202805,
             "CompanyName": "Wassally",
             "APIHost": "http://wassally.ddns.net:30001",
             "APIPath": "/DispatchAPI/api/",
-            "ApiVersion": 0
+            "ApiVersion": 4
         },
         {
             "ClientID": 140111,
             "CompanyName": "GExpress",
             "APIHost": "http://196.221.202.114",
             "APIPath": "/DispatchAPI/api/",
-            "ApiVersion": 5
+            "ApiVersion": 4
         },
         {
             "ClientID": 201511,
             "CompanyName": "Fine Express",
             "APIHost": "https://com-eg.net",
             "APIPath": "/FineExpressApi/api/",
-            "ApiVersion": 5
+            "ApiVersion": 4
         } 
     ]
 }
