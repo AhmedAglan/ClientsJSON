@@ -146,6 +146,13 @@
             "APIHost": "https://com-eg.net",
             "APIPath": "/FastMailAPI/",
             "ApiVersion": 5
+        },
+        {
+            "ClientID": 210106,
+            "CompanyName": "Aliens Express",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/AliensAPI/",
+            "ApiVersion": 5
         }  
     ]
 }
