@@ -137,7 +137,7 @@
             "ClientID": 201504,
             "CompanyName": "Volo",
             "APIHost": "https://exab-eg.com",
-            "APIPath": "/VoloAPI/",
+            "APIPath": "/xxxxVoloAPI/",
             "ApiVersion": 5
         },
         {
