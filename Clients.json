@@ -54,7 +54,7 @@
             "CompanyName": "Best Express",
             "APIHost": "https://api.bestexpresseg.com",
             "APIPath": "/",
-            "ApiVersion": 4
+            "ApiVersion": 5
         },
         {
             "ClientID": 202805,
