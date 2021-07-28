@@ -99,13 +99,6 @@
             "ApiVersion": 5
         },                 
         {
-            "ClientID": 210601,
-            "CompanyName": "Prime",
-            "APIHost": "https://com-eg.net",
-            "APIPath": "/PrimeAPI/",
-            "ApiVersion": 5
-        },                 
-        {
             "ClientID": 211601,
             "CompanyName": "Link Chain",
             "APIHost": "https://com-eg.net",
@@ -134,13 +127,6 @@
             "ApiVersion": 5
         },
         {
-            "ClientID": 201504,
-            "CompanyName": "Volo",
-            "APIHost": "https://exab-eg.com",
-            "APIPath": "/xxxxVoloAPI/",
-            "ApiVersion": 5
-        },
-        {
             "ClientID": 210106,
             "CompanyName": "Fast Mail",
             "APIHost": "https://com-eg.net",
@@ -148,7 +134,14 @@
             "ApiVersion": 5
         },
         {
-            "ClientID": 210106,
+            "ClientID": 212606,
+            "CompanyName": "Aliens Express",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/AliensAPI/",
+            "ApiVersion": 5
+        },
+        {
+            "ClientID": 210108,
             "CompanyName": "Aliens Express",
             "APIHost": "https://com-eg.net",
             "APIPath": "/AliensAPI/",
