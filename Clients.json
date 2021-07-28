@@ -142,9 +142,9 @@
         },
         {
             "ClientID": 210108,
-            "CompanyName": "Aliens Express",
+            "CompanyName": "Deliveroo Express",
             "APIHost": "https://com-eg.net",
-            "APIPath": "/AliensAPI/",
+            "APIPath": "/DeliverooAPI/",
             "ApiVersion": 5
         }  
     ]
