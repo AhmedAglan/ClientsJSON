@@ -2,8 +2,8 @@
     "ClientsList": [
         {
             "ClientID": 999999,
-            "CompanyName": "Demo",
-            "APIHost": "https://exab-eg.com",
+            "CompanyName": "MpsEgypt",
+            "APIHost": "https://a1.mpsegypt.com",
             "APIPath": "/DemoAPI/api/",
             "ApiVersion": 4
         },

@@ -2,7 +2,7 @@
     "ClientsList": [
         {
             "ClientID": 999999,
-            "CompanyName": "Demo",
+            "CompanyName": "MPS Dispatch",
             "APIHost": "https://a1.mpsegypt.com",
             "APIPath": "/DemoAPI/",
             "ApiVersion": 5
