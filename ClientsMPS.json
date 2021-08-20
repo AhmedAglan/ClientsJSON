@@ -45,7 +45,7 @@
         {
             "ClientID": 202805,
             "CompanyName": "Wassally",
-            "APIHost": "wassally.com-eg.net",
+            "APIHost": "https://wassally.com-eg.net",
             "APIPath": "/DispatchAPI/api/",
             "ApiVersion": 4
         },
