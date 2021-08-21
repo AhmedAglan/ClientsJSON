@@ -5,140 +5,159 @@
             "CompanyName": "MPS Dispatch",
             "APIHost": "https://a1.mpsegypt.com",
             "APIPath": "/DemoAPI/",
-            "ApiVersion": 5
+            "ApiVersion": 5,
+            "ShowLogo": true
         },
         {
             "ClientID": 190101,
             "CompanyName": "ABS Egypt",
             "APIHost": "https://absegy.org:5051",
             "APIPath": "/",
-            "ApiVersion": 5
+            "ApiVersion": 5,
+            "ShowLogo": false
         },
         {
             "ClientID": 190102,
             "CompanyName": "ABS Egypt2",
             "APIHost": "https://absegy.org:5051",
             "APIPath": "/",
-            "ApiVersion": 5
+            "ApiVersion": 5,
+            "ShowLogo": false
         },        
         {
             "ClientID": 182209,
             "CompanyName": "EGL",
             "APIHost": "http://egl.mpsegypt.com",
             "APIPath": "/DispatchAPI/",
-            "ApiVersion": 4
+            "ApiVersion": 4,
+            "ShowLogo": false
         },
         {
             "ClientID": 191307,
             "CompanyName": "Esh7enly",
             "APIHost": "http://Esh7enly.mpsegypt.com:15148",
             "APIPath": "/DispatchAPI/",
-            "ApiVersion": 5
+            "ApiVersion": 5,
+            "ShowLogo": true
         },
         {
             "ClientID": 180109,
             "CompanyName": "Line Express",
             "APIHost": "http://line.mpsegypt.com:5050",
             "APIPath": "/",
-            "ApiVersion": 5
+            "ApiVersion": 5,
+            "ShowLogo": true
         },
         {
             "ClientID": 201601,
             "CompanyName": "Kangaroo",
             "APIHost": "http://kangraoo.myfirewall.co:30001",
-            "APIPath": "/DispatchAPI/",
-            "ApiVersion": 5
+            "ApiVersion": 5,
+            "ShowLogo": true
         },
         {
             "ClientID": 200406,
             "CompanyName": "Best Express",
             "APIHost": "https://api.bestexpresseg.com",
             "APIPath": "/",
-            "ApiVersion": 5
+            "ApiVersion": 5,
+            "ShowLogo": true
         },
         {
             "ClientID": 202805,
             "CompanyName": "Wassally",
             "APIHost": "https://wassally.com-eg.net",
             "APIPath": "/DispatchAPI/",
-            "ApiVersion": 4
+            "ApiVersion": 4,
+            "ShowLogo": false
         },                 
         {
             "ClientID": 211801,
             "CompanyName": "Message-Express",
             "APIHost": "http://api.message-express.com",
             "APIPath": "/",
-            "ApiVersion": 5
+            "ApiVersion": 5,
+            "ShowLogo": true
         },                 
         {
             "ClientID": 202110,
             "CompanyName": "Eagle Express",
             "APIHost": "https://com-eg.net",
             "APIPath": "/EagleAPI/",
-            "ApiVersion": 5
+            "ApiVersion": 5,
+            "ShowLogo": true
         },                 
         {
             "ClientID": 202609,
             "CompanyName": "Pick & Go",
             "APIHost": "https://com-eg.net",
             "APIPath": "/PickAndGoAPI/",
-            "ApiVersion": 5
+            "ApiVersion": 5,
+            "ShowLogo": true
         },                 
         {
             "ClientID": 140111,
             "CompanyName": "GExpress",
             "APIHost": "http://196.221.202.114",
             "APIPath": "/DispatchAPI/",
-            "ApiVersion": 4
+            "ApiVersion": 4,
+            "ShowLogo": false
         },                 
         {
             "ClientID": 201511,
             "CompanyName": "Fine Express",
             "APIHost": "https://com-eg.net",
             "APIPath": "/FineExpressAPI/",
-            "ApiVersion": 5
+            "ApiVersion": 5,
+            "ShowLogo": true
         },                 
         {
             "ClientID": 211601,
             "CompanyName": "Link Chain",
             "APIHost": "https://com-eg.net",
             "APIPath": "/LinkChainAPI/",
-            "ApiVersion": 5
+            "ApiVersion": 5,
+            "ShowLogo": true
         },                 
         {
             "ClientID": 210102,
             "CompanyName": "Operation",
             "APIHost": "https://com-eg.net",
             "APIPath": "/OperationAPI/",
-            "ApiVersion": 5
+            "ApiVersion": 5,
+            "ShowLogo": true
         },                                  
         {
             "ClientID": 211701,
             "CompanyName": "vHubs",
             "APIHost": "https://com-eg.net",
             "APIPath": "/vHubsAPI/",
-            "ApiVersion": 5
+            "ApiVersion": 5,
+            "ShowLogo": true
         },
         {
             "ClientID": 210106,
             "CompanyName": "Fast Mail",
             "APIHost": "https://com-eg.net",
             "APIPath": "/FastMailAPI/",
-            "ApiVersion": 5
+            "ApiVersion": 5,
+            "ShowLogo": true
         },
         {
             "ClientID": 212606,
             "CompanyName": "Aliens Express",
             "APIHost": "https://com-eg.net",
             "APIPath": "/AliensAPI/",
-            "ApiVersion": 5
+            "ApiVersion": 5,
+            "ShowLogo": true
         },
         {
             "ClientID": 210108,
             "CompanyName": "Deliveroo Express",
             "APIHost": "https://com-eg.net",
             "APIPath": "/DeliverooAPI/",
-            "ApiVersion": 5
+            "ApiVersion": 5,
+            "ShowLogo": true
         }  
     ]
 }
