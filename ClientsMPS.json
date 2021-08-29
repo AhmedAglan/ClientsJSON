@@ -62,6 +62,13 @@
             "APIHost": "https://com-eg.net",
             "APIPath": "/FineExpressApi/api/",
             "ApiVersion": 4
+        },
+        {
+            "ClientID": 201504,
+            "CompanyName": "Volo",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/VoloApi/api/",
+            "ApiVersion": 4
         } 
     ]
 }

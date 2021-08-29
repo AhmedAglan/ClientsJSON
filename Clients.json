@@ -158,6 +158,14 @@
             "APIPath": "/DeliverooAPI/",
             "ApiVersion": 5,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 201504,
+            "CompanyName": "Volo",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/VoloAPI/",
+            "ApiVersion": 4,
+            "ShowLogo": true
         }  
     ]
 }
