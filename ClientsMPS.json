@@ -69,6 +69,13 @@
             "APIHost": "https://com-eg.net",
             "APIPath": "/VoloApi/api/",
             "ApiVersion": 4
-        } 
+        },
+        {
+            "ClientID": 210106,
+            "CompanyName": "Fast Mail",
+            "APIHost": "https://system.fastmaileg.com/",
+            "APIPath": "/api/",
+            "ApiVersion": 4
+        }
     ]
 }

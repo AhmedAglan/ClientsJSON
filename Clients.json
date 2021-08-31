@@ -138,8 +138,8 @@
         {
             "ClientID": 210106,
             "CompanyName": "Fast Mail",
-            "APIHost": "https://com-eg.net",
-            "APIPath": "/FastMailAPI/",
+            "APIHost": "https://system.fastmaileg.com",
+            "APIPath": "/",
             "ApiVersion": 5,
             "ShowLogo": true
         },
