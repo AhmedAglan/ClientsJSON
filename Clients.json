@@ -130,8 +130,8 @@
         {
             "ClientID": 211701,
             "CompanyName": "vHubs",
-            "APIHost": "https://vhubs.com-eg.net",
-            "APIPath": "/RunnerMobile/",
+            "APIHost": "https://vrunner.com-eg.net:5051",
+            "APIPath": "/",
             "ApiVersion": 5,
             "ShowLogo": true
         },
