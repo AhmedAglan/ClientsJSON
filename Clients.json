@@ -166,6 +166,14 @@
             "APIPath": "/VoloAPI/",
             "ApiVersion": 4,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 211803,
+            "CompanyName": "GoFly",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/GoFlyAPI/",
+            "ApiVersion": 4,
+            "ShowLogo": true
         }  
     ]
 }
