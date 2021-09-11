@@ -14,7 +14,7 @@
             "APIHost": "https://absegy.org:5051",
             "APIPath": "/",
             "ApiVersion": 5,
-            "ShowLogo": false
+            "ShowLogo": true
         },
         {
             "ClientID": 190102,
@@ -22,7 +22,7 @@
             "APIHost": "https://absegy.org:5051",
             "APIPath": "/",
             "ApiVersion": 5,
-            "ShowLogo": false
+            "ShowLogo": true
         },        
         {
             "ClientID": 182209,
