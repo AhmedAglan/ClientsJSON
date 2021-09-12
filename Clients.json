@@ -5,7 +5,7 @@
             "CompanyName": "MPS Dispatch",
             "APIHost": "https://a1.mpsegypt.com",
             "APIPath": "/DemoAPI/",
-            "ApiVersion": 5,
+            "ApiVersion": 6,
             "ShowLogo": true
         },
         {
