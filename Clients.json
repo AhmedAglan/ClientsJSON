@@ -30,7 +30,7 @@
             "APIHost": "http://egl.mpsegypt.com",
             "APIPath": "/DispatchAPI/",
             "ApiVersion": 4,
-            "ShowLogo": false
+            "ShowLogo": true
         },
         {
             "ClientID": 191307,
@@ -69,7 +69,7 @@
             "APIHost": "https://wassally.com-eg.net",
             "APIPath": "/DispatchAPI/",
             "ApiVersion": 4,
-            "ShowLogo": false
+            "ShowLogo": true
         },                 
         {
             "ClientID": 211801,
@@ -101,7 +101,7 @@
             "APIHost": "http://196.221.202.114",
             "APIPath": "/DispatchAPI/",
             "ApiVersion": 4,
-            "ShowLogo": false
+            "ShowLogo": true
         },                 
         {
             "ClientID": 201511,
