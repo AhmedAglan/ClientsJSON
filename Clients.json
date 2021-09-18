@@ -9,6 +9,14 @@
             "ShowLogo": true
         },
         {
+            "ClientID": 999998,
+            "CompanyName": "Debug Client",
+            "APIHost": "http://192.168.1.99",
+            "APIPath": "/DispatchAPI/",
+            "ApiVersion": 5,
+            "ShowLogo": true
+        },        
+        {
             "ClientID": 190101,
             "CompanyName": "ABS Egypt",
             "APIHost": "https://absegy.org:5051",
