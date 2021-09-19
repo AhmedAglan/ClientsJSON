@@ -182,6 +182,22 @@
             "APIPath": "/GoFlyAPI/",
             "ApiVersion": 5,
             "ShowLogo": true
-        }  
+        },
+        {
+            "ClientID": 212009,
+            "CompanyName": "OrderEx",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/OrderExAPI/",
+            "ApiVersion": 6,
+            "ShowLogo": true
+        },
+        {
+            "ClientID": 211009,
+            "CompanyName": "ZomEx",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/ZomExAPI/",
+            "ApiVersion": 6,
+            "ShowLogo": true
+        }
     ]
 }
