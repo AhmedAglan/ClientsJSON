@@ -198,6 +198,14 @@
             "APIPath": "/ZomExAPI/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 200000,
+            "CompanyName": "Best Test",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/BestTestAPI/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }
