@@ -206,6 +206,14 @@
             "APIPath": "/BestTestAPI/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 212209,
+            "CompanyName": "Ship It",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/ShipItAPI/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }
