@@ -38,8 +38,8 @@
         {
             "ClientID": 201601,
             "CompanyName": "Kangaroo",
-            "APIHost": "http://kangraoo.myfirewall.co:30001",
-            "APIPath": "/DispatchAPI/api/",
+            "APIHost": "https://kexpress.org",
+            "APIPath": "/KAPI/api/",
             "ApiVersion": 4
         },
         {

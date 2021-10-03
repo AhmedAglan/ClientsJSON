@@ -59,7 +59,8 @@
         {
             "ClientID": 201601,
             "CompanyName": "Kangaroo",
-            "APIHost": "http://kangraoo.myfirewall.co:30001",
+            "APIHost": "https://kexpress.org",
+            "APIPath": "/KAPI/",
             "ApiVersion": 5,
             "ShowLogo": true
         },
