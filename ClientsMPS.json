@@ -65,9 +65,9 @@
         },
         {
             "ClientID": 201504,
-            "CompanyName": "Volo",
+            "CompanyName": "Kiwi",
             "APIHost": "https://com-eg.net",
-            "APIPath": "/VoloApi/api/",
+            "APIPath": "/KiwiApi/api/",
             "ApiVersion": 4
         },
         {
