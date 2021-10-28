@@ -228,7 +228,7 @@
             "ClientID": 210103,
             "CompanyName": "Medex",
             "APIHost": "https://com-eg.net",
-            "APIPath": "/MedexDAPI/",
+            "APIPath": "/MedexAPI/",
             "ApiVersion": 6,
             "ShowLogo": true
         }
