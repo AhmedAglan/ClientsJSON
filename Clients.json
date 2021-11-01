@@ -229,7 +229,7 @@
             "CompanyName": "Medex",
             "APIHost": "https://com-eg.net",
             "APIPath": "/MedexAPI/",
-            "ApiVersion": 6,
+            "ApiVersion": 5,
             "ShowLogo": true
         }
     ]
