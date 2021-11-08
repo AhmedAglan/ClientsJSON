@@ -93,7 +93,7 @@
             "CompanyName": "Eagle Express",
             "APIHost": "https://com-eg.net",
             "APIPath": "/EagleAPI/",
-            "ApiVersion": 5,
+            "ApiVersion": 6,
             "ShowLogo": true
         },                 
         {
