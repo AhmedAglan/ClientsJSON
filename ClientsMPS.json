@@ -5,77 +5,99 @@
             "CompanyName": "MpsEgypt",
             "APIHost": "https://a1.mpsegypt.com",
             "APIPath": "/DemoAPI/api/",
-            "ApiVersion": 4
+            "ApiVersion": 4,
+            "Logo":"",
+            "Background":""
         },
         {
             "ClientID": 190101,
             "CompanyName": "ABS Egypt",
             "APIHost": "https://absegy.org",
             "APIPath": "/ABSAPI/api/",
-            "ApiVersion": 4
+            "ApiVersion": 4,
+            "Logo":"",
+            "Background":""
         },
         {
             "ClientID": 200101,
             "CompanyName": "AMD Express",
             "APIHost": "https://com-eg.net",
             "APIPath": "/AMDAPI/api/",
-            "ApiVersion": 4
+            "ApiVersion": 4,
+            "Logo":"",
+            "Background":""
         },
         {
             "ClientID": 191307,
             "CompanyName": "Esh7enly",
             "APIHost": "http://Esh7enly.mpsegypt.com:15148",
             "APIPath": "/DispatchAPI/api/",
-            "ApiVersion": 4
+            "ApiVersion": 4,
+            "Logo":"",
+            "Background":""
         },
         {
             "ClientID": 180109,
             "CompanyName": "Line Express",
             "APIHost": "http://line.mpsegypt.com",
             "APIPath": "/DispatchAPI/api/",
-            "ApiVersion": 4
+            "ApiVersion": 4,
+            "Logo":"",
+            "Background":""
         },
         {
             "ClientID": 201601,
             "CompanyName": "Kangaroo",
             "APIHost": "https://kexpress.org",
             "APIPath": "/KAPI/api/",
-            "ApiVersion": 4
+            "ApiVersion": 4,
+            "Logo":"",
+            "Background":""
         },
         {
             "ClientID": 202805,
             "CompanyName": "Wassally",
             "APIHost": "https://wassally.com-eg.net",
             "APIPath": "/DispatchAPI/api/",
-            "ApiVersion": 4
+            "ApiVersion": 4,
+            "Logo":"",
+            "Background":""
         },
         {
             "ClientID": 140111,
             "CompanyName": "GExpress",
             "APIHost": "http://196.221.202.114",
             "APIPath": "/DispatchAPI/api/",
-            "ApiVersion": 4
+            "ApiVersion": 4,
+            "Logo":"",
+            "Background":""
         },
         {
             "ClientID": 201511,
             "CompanyName": "Fine Express",
             "APIHost": "https://com-eg.net",
             "APIPath": "/FineExpressApi/api/",
-            "ApiVersion": 4
+            "ApiVersion": 4,
+            "Logo":"",
+            "Background":""
         },
         {
             "ClientID": 201504,
             "CompanyName": "Kiwi",
             "APIHost": "https://com-eg.net",
             "APIPath": "/KiwiApi/api/",
-            "ApiVersion": 4
+            "ApiVersion": 4,
+            "Logo":"",
+            "Background":""
         },
         {
             "ClientID": 210106,
             "CompanyName": "Fast Mail",
             "APIHost": "https://system.fastmaileg.com/",
             "APIPath": "/api/",
-            "ApiVersion": 4
+            "ApiVersion": 4,
+            "Logo":"",
+            "Background":""
         }
     ]
 }
