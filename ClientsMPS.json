@@ -7,7 +7,8 @@
             "APIPath": "/DemoAPI/api/",
             "ApiVersion": 4,
             "Logo":"",
-            "Background":""
+            "Background":"",
+            "IsSubscription":true
         },
         {
             "ClientID": 190101,
@@ -16,7 +17,8 @@
             "APIPath": "/ABSAPI/api/",
             "ApiVersion": 4,
             "Logo":"",
-            "Background":""
+            "Background":"",
+            "IsSubscription":false
         },
         {
             "ClientID": 200101,
@@ -25,7 +27,8 @@
             "APIPath": "/AMDAPI/api/",
             "ApiVersion": 4,
             "Logo":"",
-            "Background":""
+            "Background":"",
+            "IsSubscription":false
         },
         {
             "ClientID": 191307,
@@ -34,7 +37,8 @@
             "APIPath": "/DispatchAPI/api/",
             "ApiVersion": 4,
             "Logo":"",
-            "Background":""
+            "Background":"",
+            "IsSubscription":false
         },
         {
             "ClientID": 180109,
@@ -43,7 +47,8 @@
             "APIPath": "/DispatchAPI/api/",
             "ApiVersion": 4,
             "Logo":"",
-            "Background":""
+            "Background":"",
+            "IsSubscription":false
         },
         {
             "ClientID": 201601,
@@ -52,7 +57,8 @@
             "APIPath": "/KAPI/api/",
             "ApiVersion": 4,
             "Logo":"",
-            "Background":""
+            "Background":"",
+            "IsSubscription":false
         },
         {
             "ClientID": 202805,
@@ -61,7 +67,8 @@
             "APIPath": "/DispatchAPI/api/",
             "ApiVersion": 4,
             "Logo":"",
-            "Background":""
+            "Background":"",
+            "IsSubscription":false
         },
         {
             "ClientID": 140111,
@@ -70,7 +77,8 @@
             "APIPath": "/DispatchAPI/api/",
             "ApiVersion": 4,
             "Logo":"",
-            "Background":""
+            "Background":"",
+            "IsSubscription":false
         },
         {
             "ClientID": 201511,
@@ -79,7 +87,8 @@
             "APIPath": "/FineExpressApi/api/",
             "ApiVersion": 4,
             "Logo":"",
-            "Background":""
+            "Background":"",
+            "IsSubscription":false
         },
         {
             "ClientID": 201504,
@@ -88,7 +97,8 @@
             "APIPath": "/KiwiApi/api/",
             "ApiVersion": 4,
             "Logo":"",
-            "Background":""
+            "Background":"",
+            "IsSubscription":false
         },
         {
             "ClientID": 210106,
@@ -97,7 +107,8 @@
             "APIPath": "/api/",
             "ApiVersion": 4,
             "Logo":"",
-            "Background":""
+            "Background":"",
+            "IsSubscription":false
         }
     ]
 }
