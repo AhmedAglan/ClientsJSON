@@ -149,7 +149,7 @@
             "CompanyName": "Fast Mail",
             "APIHost": "https://system.fastmaileg.com",
             "APIPath": "/",
-            "ApiVersion": 5,
+            "ApiVersion": 6,
             "ShowLogo": true
         },
         {
