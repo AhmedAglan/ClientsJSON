@@ -109,6 +109,16 @@
             "Logo":"",
             "Background":"",
             "IsSubscription":false
+        },
+        {
+            "ClientID": 212606,
+            "CompanyName": "Aliens Express",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/AliensApi/api/",
+            "ApiVersion": 5,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true
         }
     ]
 }
