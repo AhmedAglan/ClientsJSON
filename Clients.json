@@ -85,7 +85,7 @@
             "CompanyName": "Message-Express",
             "APIHost": "http://api.message-express.com",
             "APIPath": "/",
-            "ApiVersion": 5,
+            "ApiVersion": 6,
             "ShowLogo": true
         },                 
         {
