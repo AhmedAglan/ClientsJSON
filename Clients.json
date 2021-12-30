@@ -247,6 +247,14 @@
             "APIPath": "/TelegraphAPI/",
             "ApiVersion": 5,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 202906,
+            "CompanyName": "OnTime",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/OnTimeAPI/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }
