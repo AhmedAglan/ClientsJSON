@@ -255,6 +255,14 @@
             "APIPath": "/OnTimeAPI/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 220201,
+            "CompanyName": "BlackHorse",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/BlackHorseAPI/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }
