@@ -279,6 +279,14 @@
             "APIPath": "/TrustExAPI/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 222301,
+            "CompanyName": "PodEx",
+            "APIHost": "https://vSoft.com-eg.net",
+            "APIPath": "/PodExAPI/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }
