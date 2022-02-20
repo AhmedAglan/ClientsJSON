@@ -43,7 +43,7 @@
         {
             "ClientID": 180109,
             "CompanyName": "Line Express",
-            "APIHost": "http://vsoft.com-eg.net",
+            "APIHost": "https://vsoft.com-eg.net",
             "APIPath": "/LineExpressAPI/api/",
             "ApiVersion": 4,
             "Logo":"",
