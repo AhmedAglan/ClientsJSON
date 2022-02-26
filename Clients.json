@@ -123,7 +123,7 @@
         {
             "ClientID": 211601,
             "CompanyName": "Link Chain",
-            "APIHost": "https://com-eg.net",
+            "APIHost": "https://vsoft.com-eg.net",
             "APIPath": "/LinkChainAPI/",
             "ApiVersion": 5,
             "ShowLogo": true
