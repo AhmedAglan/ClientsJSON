@@ -233,14 +233,6 @@
             "ShowLogo": true
         },
         {
-            "ClientID": 211312,
-            "CompanyName": "TrustEx",
-            "APIHost": "https://com-eg.net",
-            "APIPath": "/TrustExAPI/",
-            "ApiVersion": 5,
-            "ShowLogo": true
-        },
-        {
             "ClientID": 211412,
             "CompanyName": "Telegraph",
             "APIHost": "https://com-eg.net",
@@ -261,14 +253,6 @@
             "CompanyName": "BlackHorse",
             "APIHost": "https://com-eg.net",
             "APIPath": "/BlackHorseAPI/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 220501,
-            "CompanyName": "MarEx",
-            "APIHost": "https://com-eg.net",
-            "APIPath": "/MarExAPI/",
             "ApiVersion": 6,
             "ShowLogo": true
         },
