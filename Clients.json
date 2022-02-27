@@ -11,7 +11,7 @@
         {
             "ClientID": 999998,
             "CompanyName": "Debug Client",
-            "APIHost": "http://192.168.1.99",
+            "APIHost": "http://192.168.0.99",
             "APIPath": "/DispatchAPI/",
             "ApiVersion": 6,
             "ShowLogo": true
