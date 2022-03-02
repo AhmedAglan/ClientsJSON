@@ -139,7 +139,7 @@
         {
             "ClientID": 211701,
             "CompanyName": "vHubs",
-            "APIHost": "https://vrunner.com-eg.net",
+            "APIHost": "https://vrunner.com-eg.net:5051",
             "APIPath": "/",
             "ApiVersion": 5,
             "ShowLogo": true
