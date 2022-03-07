@@ -15,6 +15,14 @@
             "APIPath": "/DispatchAPI/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },                                  
+        {
+            "ClientID": 222802,
+            "CompanyName": "Taager",
+            "APIHost": "https://runnerapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         },        
         {
             "ClientID": 190101,
