@@ -290,7 +290,7 @@
         },
         {
             "ClientID": 222702,
-            "CompanyName": "TBEx",
+            "CompanyName": "OutHyre",
             "APIHost": "http://vsoft.com-eg.net",
             "APIPath": "/OutHyreAPI/",
             "ApiVersion": 6,
