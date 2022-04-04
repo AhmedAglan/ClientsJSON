@@ -295,6 +295,14 @@
             "APIPath": "/OutHyreAPI/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 210105,
+            "CompanyName": "Halan",
+            "APIHost": "http://54.241.163.220",
+            "APIPath": "/HalanAPI/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }
