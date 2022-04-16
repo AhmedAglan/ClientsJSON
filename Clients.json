@@ -189,7 +189,7 @@
             "CompanyName": "GoFly",
             "APIHost": "https://system.goflyeg.com",
             "APIPath": "/api/",
-            "ApiVersion": 5,
+            "ApiVersion": 6,
             "ShowLogo": true
         },
         {
