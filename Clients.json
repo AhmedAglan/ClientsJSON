@@ -295,6 +295,14 @@
             "APIPath": "/BlueBirdAPI/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 221504,
+            "CompanyName": "Sekka",
+            "APIHost": "https://vSoft.com-eg.net",
+            "APIPath": "/SekkaAPI/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }
