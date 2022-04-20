@@ -9,7 +9,7 @@
             "Logo":"",
             "Background":"",
             "IsSubscription":true,
-            "BasicColor":"FF5E07"
+            "BasicColor":"#FF5E07"
         },
         {
             "ClientID": 190101,
