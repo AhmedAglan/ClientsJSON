@@ -8,7 +8,8 @@
             "ApiVersion": 4,
             "Logo":"",
             "Background":"",
-            "IsSubscription":true
+            "IsSubscription":true,
+            "BasicColor":"FF5E07"
         },
         {
             "ClientID": 190101,
@@ -18,7 +19,8 @@
             "ApiVersion": 4,
             "Logo":"",
             "Background":"",
-            "IsSubscription":false
+            "IsSubscription":false,
+            "BasicColor":""
         },
         {
             "ClientID": 200101,
@@ -28,7 +30,8 @@
             "ApiVersion": 4,
             "Logo":"",
             "Background":"",
-            "IsSubscription":false
+            "IsSubscription":false,
+            "BasicColor":""
         },
         {
             "ClientID": 191307,
@@ -38,7 +41,8 @@
             "ApiVersion": 4,
             "Logo":"",
             "Background":"",
-            "IsSubscription":false
+            "IsSubscription":false,
+            "BasicColor":""
         },
         {
             "ClientID": 180109,
@@ -48,7 +52,8 @@
             "ApiVersion": 4,
             "Logo":"",
             "Background":"",
-            "IsSubscription":false
+            "IsSubscription":false,
+            "BasicColor":""
         },
         {
             "ClientID": 201601,
@@ -58,7 +63,8 @@
             "ApiVersion": 4,
             "Logo":"",
             "Background":"",
-            "IsSubscription":false
+            "IsSubscription":false,
+            "BasicColor":""
         },
         {
             "ClientID": 202805,
@@ -68,7 +74,8 @@
             "ApiVersion": 4,
             "Logo":"",
             "Background":"",
-            "IsSubscription":false
+            "IsSubscription":false,
+            "BasicColor":""
         },
         {
             "ClientID": 140111,
@@ -78,7 +85,8 @@
             "ApiVersion": 4,
             "Logo":"",
             "Background":"",
-            "IsSubscription":false
+            "IsSubscription":false,
+            "BasicColor":""
         },
         {
             "ClientID": 201511,
@@ -88,7 +96,8 @@
             "ApiVersion": 4,
             "Logo":"",
             "Background":"",
-            "IsSubscription":false
+            "IsSubscription":false,
+            "BasicColor":""
         },
         {
             "ClientID": 201504,
@@ -98,7 +107,8 @@
             "ApiVersion": 4,
             "Logo":"",
             "Background":"",
-            "IsSubscription":false
+            "IsSubscription":false,
+            "BasicColor":""
         },
         {
             "ClientID": 210106,
@@ -108,7 +118,8 @@
             "ApiVersion": 4,
             "Logo":"",
             "Background":"",
-            "IsSubscription":false
+            "IsSubscription":false,
+            "BasicColor":""
         },
         {
             "ClientID": 212606,
@@ -118,7 +129,8 @@
             "ApiVersion": 5,
             "Logo":"",
             "Background":"",
-            "IsSubscription":true
+            "IsSubscription":true,
+            "BasicColor":""
         }
     ]
 }
