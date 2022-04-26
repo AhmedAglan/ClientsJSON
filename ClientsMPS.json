@@ -3,9 +3,9 @@
         {
             "ClientID": 999999,
             "CompanyName": "MpsEgypt",
-            "APIHost": "https://a1.mpsegypt.com",
-            "APIPath": "/DemoAPI/api/",
-            "ApiVersion": 4,
+            "APIHost": "https://mpsclientsapi.com-eg.net",
+            "APIPath": "",
+            "ApiVersion": 6,
             "Logo":"",
             "Background":"",
             "IsSubscription":true,
