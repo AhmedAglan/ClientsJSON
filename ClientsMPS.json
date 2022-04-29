@@ -124,13 +124,13 @@
         {
             "ClientID": 212606,
             "CompanyName": "Aliens Express",
-            "APIHost": "https://com-eg.net",
-            "APIPath": "/AliensApi/api/",
-            "ApiVersion": 5,
+            "APIHost": "https://dispatchclients.com-eg.net/AliensAPI",
+            "APIPath": "/",
+            "ApiVersion": 6,
             "Logo":"",
             "Background":"",
             "IsSubscription":true,
-            "BasicColor":""
+            "BasicColor":"#00137F"
         }
     ]
 }
