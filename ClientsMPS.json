@@ -2,8 +2,8 @@
     "ClientsList": [
         {
             "ClientID": 999999,
-            "CompanyName": "MpsEgypt",
-            "APIHost": "https://mpsclientsapi.com-eg.net",
+            "CompanyName": "Demo",
+            "APIHost": "https://vsoftapi.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 6,
             "Logo":"",
