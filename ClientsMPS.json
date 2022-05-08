@@ -12,6 +12,17 @@
             "BasicColor":"#FF5E07"
         },
         {
+            "ClientID": 888888,
+            "CompanyName": "Demo 88",
+            "APIHost": "http://vsoftapi.com-eg.net:6060",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#00137F"
+        },        
+        {
             "ClientID": 190101,
             "CompanyName": "ABS Egypt",
             "APIHost": "https://absegy.org",
