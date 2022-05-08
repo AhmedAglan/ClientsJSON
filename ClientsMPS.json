@@ -14,7 +14,7 @@
         {
             "ClientID": 888888,
             "CompanyName": "Demo 88",
-            "APIHost": "http://vsoftapi.com-eg.net:6060",
+            "APIHost": "https://vsoftapi.com-eg.net:6061",
             "APIPath": "/",
             "ApiVersion": 6,
             "Logo":"",
