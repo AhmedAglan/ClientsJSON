@@ -142,6 +142,17 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#00137F"
+        },
+        {
+            "ClientID": 221005,
+            "CompanyName": "Konex",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#5E408A"
         }
     ]
 }
