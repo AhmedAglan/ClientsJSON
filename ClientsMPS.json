@@ -135,7 +135,7 @@
         {
             "ClientID": 212606,
             "CompanyName": "Aliens Express",
-            "APIHost": "https://dispatchclients.com-eg.net/AliensAPI",
+            "APIHost": "https://vsoftapi.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 6,
             "Logo":"",
