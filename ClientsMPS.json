@@ -47,13 +47,13 @@
         {
             "ClientID": 191307,
             "CompanyName": "Esh7enly",
-            "APIHost": "http://Esh7enly.mpsegypt.com:15148",
-            "APIPath": "/DispatchAPI/api/",
-            "ApiVersion": 4,
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
             "Logo":"",
             "Background":"",
             "IsSubscription":false,
-            "BasicColor":""
+            "BasicColor":"#FF5E07"
         },
         {
             "ClientID": 180109,
