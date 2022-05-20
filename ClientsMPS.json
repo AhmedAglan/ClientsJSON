@@ -153,6 +153,17 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#5E408A"
+        },
+        {
+            "ClientID": 221303,
+            "CompanyName": "VsShipping",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#C438E1"
         }
     ]
 }
