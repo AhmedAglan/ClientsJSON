@@ -311,6 +311,14 @@
             "APIPath": "/system/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 221905,
+            "CompanyName": "Tal2a",
+            "APIHost": "https://tal2a.com-eg.net",
+            "APIPath": "/system/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }
