@@ -51,9 +51,9 @@
         {
             "ClientID": 191307,
             "CompanyName": "Esh7enly",
-            "APIHost": "http://Esh7enly.mpsegypt.com:15148",
-            "APIPath": "/DispatchAPI/",
-            "ApiVersion": 5,
+            "APIHost": "esh7enlyapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
             "ShowLogo": true
         },
         {
