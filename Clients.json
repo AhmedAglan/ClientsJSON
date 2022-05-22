@@ -51,7 +51,7 @@
         {
             "ClientID": 191307,
             "CompanyName": "Esh7enly",
-            "APIHost": "esh7enlyapi.com-eg.net",
+            "APIHost": "https://esh7enlyapi.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 5,
             "ShowLogo": true
