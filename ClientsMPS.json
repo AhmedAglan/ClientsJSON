@@ -175,6 +175,17 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#F58220"
+        },
+        {
+            "ClientID": 220406,
+            "CompanyName": "MalekEx",
+            "APIHost": "https://linkapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#004A6D"
         }
     ]
 }
