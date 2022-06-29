@@ -78,6 +78,17 @@
             "BasicColor":"#4AA542"
         },
         {
+            "ClientID": 211601,
+            "CompanyName": "Link Chain",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":false,
+            "BasicColor":"#00137F"
+        },
+        {
             "ClientID": 211701,
             "CompanyName": "vHubs",
             "APIHost": "https://vsoftapi.com-eg.net",
