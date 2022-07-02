@@ -177,6 +177,17 @@
             "BasicColor":"#5E408A"
         },
         {
+            "ClientID": 211801,
+            "CompanyName": "Message Express",
+            "APIHost": "https://linkapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#5BB230"
+        },
+        {
             "ClientID": 221303,
             "CompanyName": "VsShipping",
             "APIHost": "https://vsoftapi.com-eg.net",
