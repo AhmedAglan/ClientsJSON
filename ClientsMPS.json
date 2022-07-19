@@ -113,13 +113,13 @@
         {
             "ClientID": 140111,
             "CompanyName": "GExpress",
-            "APIHost": "http://196.221.202.114",
-            "APIPath": "/DispatchAPI/api/",
-            "ApiVersion": 4,
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
             "Logo":"",
             "Background":"",
             "IsSubscription":false,
-            "BasicColor":""
+            "BasicColor":"#FAA634"
         },
         {
             "ClientID": 201511,
