@@ -219,6 +219,17 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#004A6D"
+        },
+        {
+            "ClientID": 221707,
+            "CompanyName": "Star New",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#572C86"
         }
     ]
 }
