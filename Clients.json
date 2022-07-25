@@ -319,6 +319,14 @@
             "APIPath": "/tal2aapi/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 221707,
+            "CompanyName": "StarNew",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/StarNewAPI/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }
