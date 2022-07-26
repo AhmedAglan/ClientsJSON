@@ -327,6 +327,14 @@
             "APIPath": "/StarNewAPI/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 222707,
+            "CompanyName": "Rahawan",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/RahawanAPI/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }

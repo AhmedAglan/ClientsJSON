@@ -230,6 +230,17 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#572C86"
+        },
+        {
+            "ClientID": 222707,
+            "CompanyName": "Rahawan",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#FA0202"
         }
     ]
 }
