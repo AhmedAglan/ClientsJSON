@@ -241,6 +241,17 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#FA0202"
+        },
+        {
+            "ClientID": 210102,
+            "CompanyName": "Operation",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#B91B34"
         }
     ]
 }
