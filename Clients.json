@@ -335,6 +335,14 @@
             "APIPath": "/RahawanAPI/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 220808,
+            "CompanyName": "AddShipping",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/AddShipping/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }

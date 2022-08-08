@@ -263,6 +263,17 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#620C79"
+        },
+        {
+            "ClientID": 220808,
+            "CompanyName": "AddShipping",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#009EFF"
         }
     ]
 }
