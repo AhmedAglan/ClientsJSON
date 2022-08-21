@@ -285,6 +285,17 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#2C2975"
+        },
+        {
+            "ClientID": 220706,
+            "CompanyName": "Turbo",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#F57848"
         }
     ]
 }
