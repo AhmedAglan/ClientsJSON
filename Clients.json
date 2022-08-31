@@ -106,7 +106,7 @@
         },                 
         {
             "ClientID": 202609,
-            "CompanyName": "Pick & Go",
+            "CompanyName": "Pick and Go",
             "APIHost": "https://com-eg.net",
             "APIPath": "/PickAndGoAPI/",
             "ApiVersion": 5,

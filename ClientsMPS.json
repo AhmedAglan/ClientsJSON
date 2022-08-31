@@ -307,6 +307,17 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#4654AC"
+        },
+        {
+            "ClientID": 202609,
+            "CompanyName": "Pick and Go",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#D75300"
         }
     ]
 }
