@@ -318,6 +318,17 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#D75300"
+        },
+        {
+            "ClientID": 221607,
+            "CompanyName": "Tabarak",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#2B3362"
         }
     ]
 }
