@@ -343,6 +343,14 @@
             "APIPath": "/AddShipping/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 221209,
+            "CompanyName": "Servex",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/Servex/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }

@@ -329,6 +329,17 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#2B3362"
+        },
+        {
+            "ClientID": 221209,
+            "CompanyName": "Servex",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#912642"
         }
     ]
 }
