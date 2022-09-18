@@ -351,6 +351,14 @@
             "APIPath": "/Servex/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 221909,
+            "CompanyName": "We2",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/We2/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }

@@ -340,6 +340,17 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#912642"
+        },
+        {
+            "ClientID": 221909,
+            "CompanyName": "We2",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#D71905"
         }
     ]
 }
