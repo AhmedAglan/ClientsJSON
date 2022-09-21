@@ -305,14 +305,6 @@
             "ShowLogo": true
         },
         {
-            "ClientID": 221005,
-            "CompanyName": "Konex",
-            "APIHost": "https://konex.com-eg.net",
-            "APIPath": "/system/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
             "ClientID": 221905,
             "CompanyName": "Tal2a",
             "APIHost": "https://fastmaileg.com",
@@ -357,6 +349,14 @@
             "CompanyName": "We2",
             "APIHost": "https://com-eg.net",
             "APIPath": "/We2/",
+            "ApiVersion": 6,
+            "ShowLogo": true
+        },
+        {
+            "ClientID": 222109,
+            "CompanyName": "Go Pallet",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/GoPallet/",
             "ApiVersion": 6,
             "ShowLogo": true
         }

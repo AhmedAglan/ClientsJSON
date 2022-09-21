@@ -155,17 +155,6 @@
             "BasicColor":"#00137F"
         },
         {
-            "ClientID": 221005,
-            "CompanyName": "Konex",
-            "APIHost": "https://linkapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#5E408A"
-        },
-        {
             "ClientID": 211801,
             "CompanyName": "Message Express",
             "APIHost": "https://linkapi.com-eg.net",
@@ -362,6 +351,17 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#263878"
+        },
+        {
+            "ClientID": 222109,
+            "CompanyName": "Go Pallet",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#F4A821"
         }
     ]
 }
