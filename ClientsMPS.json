@@ -362,6 +362,17 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#F4A821"
+        },
+        {
+            "ClientID": 222709,
+            "CompanyName": "PanEgypt",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#E05439"
         }
     ]
 }
