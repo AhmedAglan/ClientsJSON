@@ -367,6 +367,14 @@
             "APIPath": "/PanEgypt/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 222909,
+            "CompanyName": "PointLogisticx",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/PointLogisticx/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }

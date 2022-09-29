@@ -373,6 +373,17 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#E05439"
+        },
+        {
+            "ClientID": 222909,
+            "CompanyName": "PointLogisticx",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#E05439"
         }
     ]
 }
