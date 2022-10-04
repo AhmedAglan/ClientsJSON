@@ -375,6 +375,14 @@
             "APIPath": "/PointLogisticx/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 200101,
+            "CompanyName": "AMD Express",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/AMDAPI/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }
