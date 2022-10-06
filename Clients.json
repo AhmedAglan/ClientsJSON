@@ -2,9 +2,9 @@
     "ClientsList": [
         {
             "ClientID": 999999,
-            "CompanyName": "MPS Dispatch",
-            "APIHost": "https://a1.mpsegypt.com",
-            "APIPath": "/DemoAPI/",
+            "CompanyName": "VSoft Demo",
+            "APIHost": "https://vsoft.com-eg.net",
+            "APIPath": "/VSoftDemoAPI/",
             "ApiVersion": 6,
             "ShowLogo": true
         },
