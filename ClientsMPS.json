@@ -384,6 +384,28 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#E05439"
+        },
+        {
+            "ClientID": 220910,
+            "CompanyName": "SkyNet",
+            "APIHost": "https://skynet.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#F21C25"
+        },
+        {
+            "ClientID": 221110,
+            "CompanyName": "EgyExpress",
+            "APIHost": "https://egyexpress.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#144786"
         }
     ]
 }
