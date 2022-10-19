@@ -391,14 +391,6 @@
             "APIPath": "/SkyNet/",
             "ApiVersion": 6,
             "ShowLogo": true
-        },
-        {
-            "ClientID": 221110,
-            "CompanyName": "EgyExpress",
-            "APIHost": "https://com-eg.net",
-            "APIPath": "/EgyExpress/",
-            "ApiVersion": 6,
-            "ShowLogo": true
         }
     ]
 }
