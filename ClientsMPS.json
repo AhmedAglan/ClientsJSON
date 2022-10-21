@@ -395,6 +395,17 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#F21C25"
+        },
+        {
+            "ClientID": 222010,
+            "CompanyName": "Hazem Halan",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#0000FF"
         }
     ]
 }
