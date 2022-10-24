@@ -399,6 +399,14 @@
             "APIPath": "/SpeedLine/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 222410,
+            "CompanyName": "Fly Buy",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/FlyBuy/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }

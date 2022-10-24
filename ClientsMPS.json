@@ -417,6 +417,17 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#2C2D6C"
+        },
+        {
+            "ClientID": 222410,
+            "CompanyName": "Fly Buy",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#E5B93C"
         }
     ]
 }
