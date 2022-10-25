@@ -89,17 +89,6 @@
             "BasicColor":"#D00180"
         },
         {
-            "ClientID": 202805,
-            "CompanyName": "Wassally",
-            "APIHost": "https://wassally.com-eg.net",
-            "APIPath": "/DispatchAPI/api/",
-            "ApiVersion": 4,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":false,
-            "BasicColor":""
-        },
-        {
             "ClientID": 140111,
             "CompanyName": "G-Express",
             "APIHost": "https://vsoftapi.com-eg.net",
@@ -432,6 +421,17 @@
         {
             "ClientID": 222510,
             "CompanyName": "FDE",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#0000FF"
+        },
+        {
+            "ClientID": 222610,
+            "CompanyName": "Wassally",
             "APIHost": "https://vsoftapi.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 6,

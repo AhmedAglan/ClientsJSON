@@ -79,14 +79,6 @@
             "APIPath": "/",
             "ApiVersion": 5,
             "ShowLogo": true
-        },
-        {
-            "ClientID": 202805,
-            "CompanyName": "Wassally",
-            "APIHost": "https://wassally.com-eg.net",
-            "APIPath": "/DispatchAPI/",
-            "ApiVersion": 4,
-            "ShowLogo": true
         },                 
         {
             "ClientID": 211801,
@@ -413,6 +405,14 @@
             "CompanyName": "FDE",
             "APIHost": "https://com-eg.net",
             "APIPath": "/FDE/",
+            "ApiVersion": 6,
+            "ShowLogo": true
+        },
+        {
+            "ClientID": 222610,
+            "CompanyName": "Wassally",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/Wassally/",
             "ApiVersion": 6,
             "ShowLogo": true
         }
