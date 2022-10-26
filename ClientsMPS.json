@@ -461,6 +461,17 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#0000FF"
+        },
+        {
+            "ClientID": 200406,
+            "CompanyName": "Best Express",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#162841"
         }
     ]
 }
