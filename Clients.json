@@ -15,7 +15,7 @@
             "APIPath": "/DispatchAPI/",
             "ApiVersion": 6,
             "ShowLogo": true
-        },                                  
+        },
         {
             "ClientID": 222802,
             "CompanyName": "Taager",
@@ -23,7 +23,7 @@
             "APIPath": "/",
             "ApiVersion": 6,
             "ShowLogo": true
-        },        
+        },
         {
             "ClientID": 190101,
             "CompanyName": "ABS Egypt",
@@ -39,7 +39,7 @@
             "APIPath": "/",
             "ApiVersion": 5,
             "ShowLogo": true
-        },        
+        },
         {
             "ClientID": 182209,
             "CompanyName": "EGL",
@@ -79,7 +79,7 @@
             "APIPath": "/",
             "ApiVersion": 5,
             "ShowLogo": true
-        },                 
+        },
         {
             "ClientID": 211801,
             "CompanyName": "Message-Express",
@@ -87,7 +87,7 @@
             "APIPath": "/",
             "ApiVersion": 5,
             "ShowLogo": true
-        },                 
+        },
         {
             "ClientID": 202110,
             "CompanyName": "Eagle Express",
@@ -95,7 +95,7 @@
             "APIPath": "/EagleAPI/",
             "ApiVersion": 5,
             "ShowLogo": true
-        },                 
+        },
         {
             "ClientID": 202609,
             "CompanyName": "Pick and Go",
@@ -103,7 +103,7 @@
             "APIPath": "/PickAndGoAPI/",
             "ApiVersion": 5,
             "ShowLogo": true
-        },                 
+        },
         {
             "ClientID": 201511,
             "CompanyName": "Fine Express",
@@ -111,7 +111,7 @@
             "APIPath": "/FineExpressAPI/",
             "ApiVersion": 5,
             "ShowLogo": true
-        },                 
+        },
         {
             "ClientID": 211601,
             "CompanyName": "Link Chain",
@@ -119,7 +119,7 @@
             "APIPath": "/LinkChainAPI/",
             "ApiVersion": 5,
             "ShowLogo": true
-        },                 
+        },
         {
             "ClientID": 210102,
             "CompanyName": "Operation",
@@ -127,7 +127,7 @@
             "APIPath": "/OperationAPI/",
             "ApiVersion": 6,
             "ShowLogo": true
-        },                                  
+        },
         {
             "ClientID": 211701,
             "CompanyName": "vHubs",
@@ -135,7 +135,7 @@
             "APIPath": "/",
             "ApiVersion": 5,
             "ShowLogo": true
-        },                                  
+        },
         {
             "ClientID": 140111,
             "CompanyName": "GExpress",
@@ -413,6 +413,22 @@
             "CompanyName": "Wassally",
             "APIHost": "https://com-eg.net",
             "APIPath": "/Wassally/",
+            "ApiVersion": 6,
+            "ShowLogo": true
+        },
+        {
+            "ClientID": 222710,
+            "CompanyName": "vHubsAE",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/vHubsAE/",
+            "ApiVersion": 6,
+            "ShowLogo": true
+        },
+        {
+            "ClientID": 222810,
+            "CompanyName": "BSM",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/vHubsAE/",
             "ApiVersion": 6,
             "ShowLogo": true
         }

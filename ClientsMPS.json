@@ -439,6 +439,28 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#3C183E"
+        },
+        {
+            "ClientID": 222710,
+            "CompanyName": "vHubsAE",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#7F0037"
+        },
+        {
+            "ClientID": 222810,
+            "CompanyName": "BSM",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#0000FF"
         }
     ]
 }
