@@ -419,15 +419,15 @@
             "BasicColor":"#E5B93C"
         },
         {
-            "ClientID": 222510,
-            "CompanyName": "FDE",
+            "ClientID": 220511,
+            "CompanyName": "ElFouad",
             "APIHost": "https://vsoftapi.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 6,
             "Logo":"",
             "Background":"",
             "IsSubscription":true,
-            "BasicColor":"#0000FF"
+            "BasicColor":"#ED1B24"
         },
         {
             "ClientID": 222610,
