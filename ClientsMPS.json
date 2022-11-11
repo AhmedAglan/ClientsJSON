@@ -472,6 +472,17 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#162841"
+        },
+        {
+            "ClientID": 221011,
+            "CompanyName": "El Nasr Express",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#51B263"
         }
     ]
 }
