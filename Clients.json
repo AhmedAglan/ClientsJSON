@@ -428,7 +428,15 @@
             "ClientID": 222810,
             "CompanyName": "BSM",
             "APIHost": "https://com-eg.net",
-            "APIPath": "/vHubsAE/",
+            "APIPath": "/BSM/",
+            "ApiVersion": 6,
+            "ShowLogo": true
+        },
+        {
+            "ClientID": 221011,
+            "CompanyName": "El Nasr Express",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/ElNasrex/",
             "ApiVersion": 6,
             "ShowLogo": true
         }
