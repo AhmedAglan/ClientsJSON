@@ -385,14 +385,6 @@
             "ShowLogo": true
         },
         {
-            "ClientID": 222310,
-            "CompanyName": "Speed Line",
-            "APIHost": "https://com-eg.net",
-            "APIPath": "/SpeedLine/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
             "ClientID": 222410,
             "CompanyName": "Fly Buy",
             "APIHost": "https://com-eg.net",

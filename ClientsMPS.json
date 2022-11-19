@@ -386,28 +386,6 @@
             "BasicColor":"#F21C25"
         },
         {
-            "ClientID": 222010,
-            "CompanyName": "Hazem Halan",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#0000FF"
-        },
-        {
-            "ClientID": 222310,
-            "CompanyName": "Speed Line",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#2C2D6C"
-        },
-        {
             "ClientID": 222410,
             "CompanyName": "Fly Buy",
             "APIHost": "https://vsoftapi.com-eg.net",
