@@ -36,13 +36,13 @@
         {
             "ClientID": 200101,
             "CompanyName": "AMD Express",
-            "APIHost": "https://com-eg.net",
-            "APIPath": "/AMDAPI/api/",
-            "ApiVersion": 4,
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
             "Logo":"",
             "Background":"",
             "IsSubscription":false,
-            "BasicColor":""
+            "BasicColor":"#2C2E91"
         },
         {
             "ClientID": 191307,
