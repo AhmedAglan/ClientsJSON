@@ -53,7 +53,7 @@
             "CompanyName": "Esh7enly",
             "APIHost": "https://esh7enlyapi.com-eg.net",
             "APIPath": "/",
-            "ApiVersion": 5,
+            "ApiVersion": 6,
             "ShowLogo": true
         },
         {
