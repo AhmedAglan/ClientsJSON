@@ -155,17 +155,6 @@
             "BasicColor":"#5BB230"
         },
         {
-            "ClientID": 221303,
-            "CompanyName": "VsShipping",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#C438E1"
-        },
-        {
             "ClientID": 221905,
             "CompanyName": "Tal2a",
             "APIHost": "https://linkapi.com-eg.net",
