@@ -100,39 +100,6 @@
             "BasicColor":"#FAA634"
         },
         {
-            "ClientID": 201511,
-            "CompanyName": "Fine Express",
-            "APIHost": "https://com-eg.net",
-            "APIPath": "/FineExpressApi/api/",
-            "ApiVersion": 4,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":false,
-            "BasicColor":""
-        },
-        {
-            "ClientID": 201504,
-            "CompanyName": "Kiwi",
-            "APIHost": "https://com-eg.net",
-            "APIPath": "/KiwiApi/api/",
-            "ApiVersion": 4,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":false,
-            "BasicColor":""
-        },
-        {
-            "ClientID": 210106,
-            "CompanyName": "Fast Mail",
-            "APIHost": "https://system.fastmaileg.com/",
-            "APIPath": "/api/",
-            "ApiVersion": 4,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":false,
-            "BasicColor":""
-        },
-        {
             "ClientID": 212606,
             "CompanyName": "Aliens Express",
             "APIHost": "https://vsoftapi.com-eg.net",
@@ -166,39 +133,6 @@
             "BasicColor":"#F58220"
         },
         {
-            "ClientID": 220406,
-            "CompanyName": "MalekEx",
-            "APIHost": "https://linkapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#004A6D"
-        },
-        {
-            "ClientID": 221707,
-            "CompanyName": "Star New",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#572C86"
-        },
-        {
-            "ClientID": 222707,
-            "CompanyName": "Rahawan",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#FA0202"
-        },
-        {
             "ClientID": 210102,
             "CompanyName": "Operation",
             "APIHost": "https://vsoftapi.com-eg.net",
@@ -208,17 +142,6 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#B91B34"
-        },
-        {
-            "ClientID": 220208,
-            "CompanyName": "Matrix",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#620C79"
         },
         {
             "ClientID": 220808,
@@ -417,17 +340,6 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#7F0037"
-        },
-        {
-            "ClientID": 222810,
-            "CompanyName": "BSM",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#0000FF"
         },
         {
             "ClientID": 200406,
