@@ -431,6 +431,14 @@
             "APIPath": "/ElNasrex/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 221712,
+            "CompanyName": "Zat Express",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/ZatExpress/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }

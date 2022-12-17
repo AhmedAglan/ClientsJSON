@@ -395,6 +395,17 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#2C2E91"
+        },
+        {
+            "ClientID": 221712,
+            "CompanyName": "Zat Express",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#0B1B7D"
         }
     ]
 }
