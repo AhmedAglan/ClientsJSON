@@ -406,6 +406,17 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#0B1B7D"
+        },
+        {
+            "ClientID": 222012,
+            "CompanyName": "Location Ex",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#E42628"
         }
     ]
 }
