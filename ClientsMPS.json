@@ -428,6 +428,28 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#3866B1"
+        },
+        {
+            "ClientID": 231101,
+            "CompanyName": "Origin",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#FFCF00"
+        },
+        {
+            "ClientID": 231201,
+            "CompanyName": "Sadata",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#FE0000"
         }
     ]
 }
