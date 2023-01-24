@@ -461,6 +461,17 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#E94B42"
+        },
+        {
+            "ClientID": 232401,
+            "CompanyName": "SpeedStep",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#B832A1"
         }
     ]
 }
