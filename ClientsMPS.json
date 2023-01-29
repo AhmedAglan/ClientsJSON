@@ -472,6 +472,17 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#B832A1"
+        },
+        {
+            "ClientID": 232901,
+            "CompanyName": "BDXExpress",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#E71D35"
         }
     ]
 }
