@@ -483,6 +483,17 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#E71D35"
+        },
+        {
+            "ClientID": 233001,
+            "CompanyName": "MSLogistics",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#0677B9"
         }
     ]
 }
