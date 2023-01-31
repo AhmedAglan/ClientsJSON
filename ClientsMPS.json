@@ -441,17 +441,6 @@
             "BasicColor":"#FFCF00"
         },
         {
-            "ClientID": 231201,
-            "CompanyName": "Sadata",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#FE0000"
-        },
-        {
             "ClientID": 232301,
             "CompanyName": "NovaExpress",
             "APIHost": "https://vsoftapi.com-eg.net",

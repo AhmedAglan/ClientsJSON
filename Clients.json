@@ -439,6 +439,38 @@
             "APIPath": "/ZatExpress/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 231101,
+            "CompanyName": "Origin",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/Origin/",
+            "ApiVersion": 6,
+            "ShowLogo": true
+        },
+        {
+            "ClientID": 232401,
+            "CompanyName": "SpeedStep",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/SpeedStep/",
+            "ApiVersion": 6,
+            "ShowLogo": true
+        },
+        {
+            "ClientID": 232901,
+            "CompanyName": "BDXExpress",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/BDXExpress/",
+            "ApiVersion": 6,
+            "ShowLogo": true
+        },
+        {
+            "ClientID": 233001,
+            "CompanyName": "MSLogistics",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/MSLogistics/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }
