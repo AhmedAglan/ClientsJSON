@@ -472,6 +472,17 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#6B1E7E"
+        },
+        {
+            "ClientID": 230502,
+            "CompanyName": "MersalMasr",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#F96910"
         }
     ]
 }
