@@ -298,17 +298,6 @@
             "BasicColor":"#F21C25"
         },
         {
-            "ClientID": 222410,
-            "CompanyName": "Fly Buy",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#E5B93C"
-        },
-        {
             "ClientID": 220511,
             "CompanyName": "ElFouad",
             "APIHost": "https://vsoftapi.com-eg.net",
@@ -351,17 +340,6 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#162841"
-        },
-        {
-            "ClientID": 221011,
-            "CompanyName": "El Nasr Express",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#51B263"
         },
         {
             "ClientID": 222510,
