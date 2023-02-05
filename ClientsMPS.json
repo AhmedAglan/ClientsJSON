@@ -461,6 +461,17 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#0677B9"
+        },
+        {
+            "ClientID": 201511,
+            "CompanyName": "FineExpress",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#6B1E7E"
         }
     ]
 }
