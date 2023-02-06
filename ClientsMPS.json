@@ -494,6 +494,17 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#0C4AB5"
+        },
+        {
+            "ClientID": 230602,
+            "CompanyName": "Sawa Express",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#F8AF03"
         }
     ]
 }
