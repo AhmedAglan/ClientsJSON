@@ -505,6 +505,17 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#F8AF03"
+        },
+        {
+            "ClientID": 230902,
+            "CompanyName": "Revona Express",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#058AFF"
         }
     ]
 }
