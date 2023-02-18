@@ -516,6 +516,17 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#058AFF"
+        },
+        {
+            "ClientID": 231802,
+            "CompanyName": "Owner Express",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#4F51FF"
         }
     ]
 }
