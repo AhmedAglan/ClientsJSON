@@ -527,6 +527,17 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#4F51FF"
+        },
+        {
+            "ClientID": 232002,
+            "CompanyName": "SpeedLinl",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#EB1E25"
         }
     ]
 }
