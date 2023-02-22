@@ -479,6 +479,14 @@
             "APIPath": "/SawaExpress/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 231802,
+            "CompanyName": "Owner Express",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/OwnerExpress/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }
