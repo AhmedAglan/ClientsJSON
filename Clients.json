@@ -335,6 +335,14 @@
             "APIPath": "/Engaz/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 230503,
+            "CompanyName": "Tal2aExpress",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/Tal2aExpress/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }
