@@ -343,6 +343,14 @@
             "APIPath": "/Tal2aExpress/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 231303,
+            "CompanyName": "MrDelivery",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/MrDelivery/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }
