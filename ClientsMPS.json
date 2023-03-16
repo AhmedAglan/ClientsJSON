@@ -25,13 +25,13 @@
         {
             "ClientID": 190101,
             "CompanyName": "ABS Egypt",
-            "APIHost": "https://prod.absegy.org",
-            "APIPath": "/api/",
-            "ApiVersion": 4,
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
             "Logo":"",
             "Background":"",
             "IsSubscription":false,
-            "BasicColor":""
+            "BasicColor":"2C2E91"
         },
         {
             "ClientID": 200101,
