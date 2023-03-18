@@ -117,7 +117,7 @@
             "CompanyName": "vHubs",
             "APIHost": "https://vrunner.com-eg.net",
             "APIPath": "/",
-            "ApiVersion": 5,
+            "ApiVersion": 6,
             "ShowLogo": true
         },
         {
