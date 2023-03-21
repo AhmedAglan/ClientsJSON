@@ -27,9 +27,9 @@
         {
             "ClientID": 182209,
             "CompanyName": "EGL",
-            "APIHost": "http://egl.mpsegypt.com",
-            "APIPath": "/DispatchAPI/",
-            "ApiVersion": 4,
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/EGL/",
+            "ApiVersion": 6,
             "ShowLogo": true
         },
         {
