@@ -397,39 +397,6 @@
             "BasicColor":"#E42628"
         },
         {
-            "ClientID": 221612,
-            "CompanyName": "Vite Ex",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#3866B1"
-        },
-        {
-            "ClientID": 231101,
-            "CompanyName": "Origin",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#FFCF00"
-        },
-        {
-            "ClientID": 232301,
-            "CompanyName": "NovaExpress",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#E94B42"
-        },
-        {
             "ClientID": 232401,
             "CompanyName": "SpeedStep",
             "APIHost": "https://vsoftapi.com-eg.net",
