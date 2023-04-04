@@ -139,8 +139,8 @@
         {
             "ClientID": 211803,
             "CompanyName": "GoFly",
-            "APIHost": "https://com-eg.net/GoFlyAPI",
-            "APIPath": "/API/",
+            "APIHost": "https://com-eg.net",
+            "APIPath": "/GoFlyAPI/",
             "ApiVersion": 6,
             "ShowLogo": true
         },
