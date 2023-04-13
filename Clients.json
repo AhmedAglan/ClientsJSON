@@ -201,6 +201,14 @@
             "ShowLogo": true
         },
         {
+            "ClientID": 721209,
+            "CompanyName": "Servex",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/Servex/",
+            "ApiVersion": 6,
+            "ShowLogo": true
+        },
+        {
             "ClientID": 221909,
             "CompanyName": "We2",
             "APIHost": "https://com-eg.net",
