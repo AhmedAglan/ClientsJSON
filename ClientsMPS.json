@@ -67,17 +67,6 @@
             "BasicColor":"#4AA542"
         },
         {
-            "ClientID": 211601,
-            "CompanyName": "Link Chain",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":false,
-            "BasicColor":"#00137F"
-        },
-        {
             "ClientID": 211701,
             "CompanyName": "vHubs",
             "APIHost": "https://vsoftapi.com-eg.net",
@@ -120,17 +109,6 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#5BB230"
-        },
-        {
-            "ClientID": 221905,
-            "CompanyName": "Tal2a",
-            "APIHost": "https://linkapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#F58220"
         },
         {
             "ClientID": 210102,
