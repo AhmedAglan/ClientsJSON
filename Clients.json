@@ -351,6 +351,14 @@
             "APIPath": "/SpeedOut/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 221303,
+            "CompanyName": "VSShipping",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/VSShipping/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }
