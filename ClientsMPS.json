@@ -562,8 +562,8 @@
             "BasicColor":"#011B7C"
         },
         {
-            "ClientID": 222010,
-            "CompanyName": "HazemHalan",
+            "ClientID": 230405,
+            "CompanyName": "HMExpress",
             "APIHost": "https://vsoftapi.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 6,
