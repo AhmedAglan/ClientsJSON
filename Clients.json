@@ -375,6 +375,14 @@
             "APIPath": "/HazemHalan/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 230505,
+            "CompanyName": "GolfExpress",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/GolfExpress/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }
