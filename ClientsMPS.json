@@ -122,39 +122,6 @@
             "BasicColor":"#B91B34"
         },
         {
-            "ClientID": 220808,
-            "CompanyName": "AddShipping",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#009EFF"
-        },
-        {
-            "ClientID": 222903,
-            "CompanyName": "Elegant",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#2C2975"
-        },
-        {
-            "ClientID": 220706,
-            "CompanyName": "Turbo",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#F57848"
-        },
-        {
             "ClientID": 221504,
             "CompanyName": "Sekka",
             "APIHost": "https://vsoftapi.com-eg.net",
@@ -186,17 +153,6 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#D75300"
-        },
-        {
-            "ClientID": 221607,
-            "CompanyName": "Tabarak",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#2B3362"
         },
         {
             "ClientID": 221209,
@@ -254,17 +210,6 @@
             "BasicColor":"#E05439"
         },
         {
-            "ClientID": 222909,
-            "CompanyName": "Wasally Logistics",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#E05439"
-        },
-        {
             "ClientID": 220910,
             "CompanyName": "SkyNet",
             "APIHost": "https://vsoftapi.com-eg.net",
@@ -285,17 +230,6 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#ED1B24"
-        },
-        {
-            "ClientID": 222610,
-            "CompanyName": "Wassally",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#3C183E"
         },
         {
             "ClientID": 222710,
@@ -320,30 +254,8 @@
             "BasicColor":"#162841"
         },
         {
-            "ClientID": 222510,
-            "CompanyName": "FDE",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#0000FF"
-        },
-        {
             "ClientID": 202810,
             "CompanyName": "BlueBird",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#2C2E91"
-        },
-        {
-            "ClientID": 220112,
-            "CompanyName": "Hand To Hand",
             "APIHost": "https://vsoftapi.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 6,
@@ -362,17 +274,6 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#0B1B7D"
-        },
-        {
-            "ClientID": 222012,
-            "CompanyName": "Location Ex",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#E42628"
         },
         {
             "ClientID": 232401,
@@ -395,17 +296,6 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#E71D35"
-        },
-        {
-            "ClientID": 233001,
-            "CompanyName": "MSLogistics",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#0677B9"
         },
         {
             "ClientID": 201511,
@@ -474,41 +364,8 @@
             "BasicColor":"#4F51FF"
         },
         {
-            "ClientID": 232002,
-            "CompanyName": "SpeedLine",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#EB1E25"
-        },
-        {
-            "ClientID": 232502,
-            "CompanyName": "OneDay",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#011B7C"
-        },
-        {
             "ClientID": 232402,
             "CompanyName": "Engaz",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#011B7C"
-        },
-        {
-            "ClientID": 230503,
-            "CompanyName": "Tal2aExpress",
             "APIHost": "https://vsoftapi.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 6,
