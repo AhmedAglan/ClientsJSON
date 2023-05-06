@@ -327,6 +327,14 @@
             "APIPath": "/GolfExpress/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 230705,
+            "CompanyName": "FolyExpress",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/FolyExpress/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }
