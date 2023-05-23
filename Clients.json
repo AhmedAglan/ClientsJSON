@@ -337,10 +337,10 @@
             "ShowLogo": true
         },
         {
-            "ClientID": 230503,
-            "CompanyName": "Tal2aExpress",
+            "ClientID": 232405,
+            "CompanyName": "Orman",
             "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/Tal2aExpress/",
+            "APIPath": "/Orman/",
             "ApiVersion": 6,
             "ShowLogo": true
         }
