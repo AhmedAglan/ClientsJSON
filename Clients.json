@@ -19,9 +19,9 @@
         {
             "ClientID": 190101,
             "CompanyName": "ABS Egypt",
-            "APIHost": "https://absegy.org:5051",
-            "APIPath": "/",
-            "ApiVersion": 5,
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/ABS/",
+            "ApiVersion": 6,
             "ShowLogo": true
         },
         {
