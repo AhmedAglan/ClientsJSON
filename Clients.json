@@ -21,7 +21,7 @@
             "CompanyName": "ABS Egypt",
             "APIHost": "https://absegy.org:5051",
             "APIPath": "/",
-            "ApiVersion": 5,
+            "ApiVersion": 6,
             "ShowLogo": true
         },
         {
