@@ -343,6 +343,14 @@
             "APIPath": "/Orman/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 232305,
+            "CompanyName": "Orman2",
+            "APIHost": "http://vsoftrunner.com-eg.net",
+            "APIPath": "/Orman/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }
