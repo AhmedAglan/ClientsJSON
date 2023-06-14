@@ -359,6 +359,14 @@
             "APIPath": "/DeerShipping/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 231406,
+            "CompanyName": "VIPExpress",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/VIPExpress/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }
