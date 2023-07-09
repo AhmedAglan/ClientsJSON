@@ -383,6 +383,14 @@
             "APIPath": "/Tawseela/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 221108,
+            "CompanyName": "VSoftDemo",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/VSoftDemo/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }
