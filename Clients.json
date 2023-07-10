@@ -217,14 +217,6 @@
             "ShowLogo": true
         },
         {
-            "ClientID": 222710,
-            "CompanyName": "vHubsAE",
-            "APIHost": "https://com-eg.net",
-            "APIPath": "/vHubsAE/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
             "ClientID": 221712,
             "CompanyName": "Zat Express",
             "APIHost": "https://com-eg.net",
@@ -389,6 +381,14 @@
             "CompanyName": "VSoftDemo",
             "APIHost": "https://vsoftrunner.com-eg.net",
             "APIPath": "/VSoftDemo/",
+            "ApiVersion": 6,
+            "ShowLogo": true
+        },
+        {
+            "ClientID": 222710,
+            "CompanyName": "vHubsAE",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/vHubsAE/",
             "ApiVersion": 6,
             "ShowLogo": true
         }
