@@ -102,7 +102,7 @@
         {
             "ClientID": 211801,
             "CompanyName": "Message Express",
-            "APIHost": "https://linkapi.com-eg.net",
+            "APIHost": "https://vsoftapi.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 6,
             "Logo":"",
