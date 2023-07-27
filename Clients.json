@@ -391,6 +391,14 @@
             "APIPath": "/vHubsAE/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 232707,
+            "CompanyName": "HalanDomiat",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/HalanDomiat/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }
