@@ -381,7 +381,7 @@
             "CompanyName": "VSoftDemo",
             "APIHost": "https://vsoftrunner.com-eg.net",
             "APIPath": "/VSoftDemo/",
-            "ApiVersion": 6,
+            "ApiVersion": 7,
             "ShowLogo": true
         },
         {
