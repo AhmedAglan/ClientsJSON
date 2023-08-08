@@ -389,7 +389,7 @@
             "CompanyName": "vHubsAE",
             "APIHost": "https://vsoftrunner.com-eg.net",
             "APIPath": "/vHubsAE/",
-            "ApiVersion": 6,
+            "ApiVersion": 7,
             "ShowLogo": true
         },
         {
