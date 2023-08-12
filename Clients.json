@@ -249,14 +249,6 @@
             "ShowLogo": true
         },
         {
-            "ClientID": 232402,
-            "CompanyName": "Engaz",
-            "APIHost": "https://com-eg.net",
-            "APIPath": "/Engaz/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
             "ClientID": 231303,
             "CompanyName": "MrDelivery",
             "APIHost": "https://com-eg.net",
