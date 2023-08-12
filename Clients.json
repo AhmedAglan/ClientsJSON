@@ -407,6 +407,14 @@
             "APIPath": "/Sekka/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 231208,
+            "CompanyName": "SwiftShip",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/SwiftShip/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }
