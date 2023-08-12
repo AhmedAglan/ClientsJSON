@@ -405,7 +405,7 @@
             "CompanyName": "Sekka",
             "APIHost": "https://vsoftrunner.com-eg.net",
             "APIPath": "/Sekka/",
-            "ApiVersion": 7,
+            "ApiVersion": 6,
             "ShowLogo": true
         }
     ]
