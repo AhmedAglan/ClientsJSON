@@ -407,6 +407,14 @@
             "APIPath": "/SwiftShip/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 232008,
+            "CompanyName": "SkyNetAE",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/SkyNetAE/",
+            "ApiVersion": 7,
+            "ShowLogo": true
         }
     ]
 }
