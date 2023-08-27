@@ -415,6 +415,14 @@
             "APIPath": "/SkyNetAE/",
             "ApiVersion": 7,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 230109,
+            "CompanyName": "Maxab",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/Maxab/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }
