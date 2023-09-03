@@ -423,6 +423,14 @@
             "APIPath": "/Maxab/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 230309,
+            "CompanyName": "OneDayEx",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/OneDayEx/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }
