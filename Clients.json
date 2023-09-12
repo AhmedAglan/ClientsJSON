@@ -391,6 +391,14 @@
             "APIPath": "/PackupEx/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 231209,
+            "CompanyName": "OutHyre",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/OutHyre/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }
