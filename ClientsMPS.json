@@ -188,17 +188,6 @@
             "BasicColor":"#263878"
         },
         {
-            "ClientID": 222109,
-            "CompanyName": "Go Pallet",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#F4A821"
-        },
-        {
             "ClientID": 222709,
             "CompanyName": "PanEgypt",
             "APIHost": "https://vsoftapi.com-eg.net",
@@ -208,17 +197,6 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#E05439"
-        },
-        {
-            "ClientID": 220910,
-            "CompanyName": "SkyNet",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#F21C25"
         },
         {
             "ClientID": 220511,
@@ -265,39 +243,6 @@
             "BasicColor":"#2C2E91"
         },
         {
-            "ClientID": 221712,
-            "CompanyName": "Zat Express",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#0B1B7D"
-        },
-        {
-            "ClientID": 232401,
-            "CompanyName": "SpeedStep",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#B832A1"
-        },
-        {
-            "ClientID": 232901,
-            "CompanyName": "BDXExpress",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#E71D35"
-        },
-        {
             "ClientID": 201511,
             "CompanyName": "Mesco Express",
             "APIHost": "https://vsoftapi.com-eg.net",
@@ -309,17 +254,6 @@
             "BasicColor":"#6B1E7E"
         },
         {
-            "ClientID": 230502,
-            "CompanyName": "MersalMasr",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#F96910"
-        },
-        {
             "ClientID": 211303,
             "CompanyName": "Go Line",
             "APIHost": "https://vsoftapi.com-eg.net",
@@ -329,17 +263,6 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#0C4AB5"
-        },
-        {
-            "ClientID": 231302,
-            "CompanyName": "Sawa Express",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#F8AF03"
         },
         {
             "ClientID": 230902,
@@ -397,28 +320,6 @@
             "BasicColor":"#011B7C"
         },
         {
-            "ClientID": 232003,
-            "CompanyName": "Yotela",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#011B7C"
-        },
-        {
-            "ClientID": 230604,
-            "CompanyName": "SpeedOut",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#011B7C"
-        },
-        {
             "ClientID": 230405,
             "CompanyName": "HMExpress",
             "APIHost": "https://vsoftapi.com-eg.net",
@@ -432,17 +333,6 @@
         {
             "ClientID": 230505,
             "CompanyName": "GolfExpress",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#011B7B"
-        },
-        {
-            "ClientID": 232405,
-            "CompanyName": "Orman",
             "APIHost": "https://vsoftapi.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 6,
@@ -531,17 +421,6 @@
         {
             "ClientID": 232707,
             "CompanyName": "HalanDomiat",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#011B7B"
-        },
-        {
-            "ClientID": 200106,
-            "CompanyName": "Fifo",
             "APIHost": "https://vsoftapi.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 6,

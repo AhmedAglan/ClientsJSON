@@ -241,14 +241,6 @@
             "ShowLogo": true
         },
         {
-            "ClientID": 230604,
-            "CompanyName": "SpeedOut",
-            "APIHost": "https://com-eg.net",
-            "APIPath": "/SpeedOut/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
             "ClientID": 221303,
             "CompanyName": "VSShipping",
             "APIHost": "https://vsoftrunner.com-eg.net",
@@ -285,22 +277,6 @@
             "CompanyName": "FolyExpress",
             "APIHost": "https://vsoftrunner.com-eg.net",
             "APIPath": "/FolyExpress/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 232405,
-            "CompanyName": "Orman",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/Orman/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 232305,
-            "CompanyName": "Orman2",
-            "APIHost": "http://vsoftrunner.com-eg.net",
-            "APIPath": "/Orman/",
             "ApiVersion": 6,
             "ShowLogo": true
         },
