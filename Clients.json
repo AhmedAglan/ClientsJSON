@@ -169,25 +169,9 @@
             "ShowLogo": true
         },
         {
-            "ClientID": 221909,
-            "CompanyName": "We2",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/We2/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 222109,
-            "CompanyName": "Go Pallet",
-            "APIHost": "https://com-eg.net",
-            "APIPath": "/GoPallet/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
             "ClientID": 222709,
             "CompanyName": "PanEgypt",
-            "APIHost": "https://com-eg.net",
+            "APIHost": "https://vsoftrunner.com-eg.net",
             "APIPath": "/PanEgypt/",
             "ApiVersion": 6,
             "ShowLogo": true
@@ -205,14 +189,6 @@
             "CompanyName": "SkyNet",
             "APIHost": "https://com-eg.net",
             "APIPath": "/SkyNet/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 221712,
-            "CompanyName": "Zat Express",
-            "APIHost": "https://com-eg.net",
-            "APIPath": "/ZatExpress/",
             "ApiVersion": 6,
             "ShowLogo": true
         },
