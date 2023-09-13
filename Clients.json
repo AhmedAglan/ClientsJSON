@@ -193,30 +193,6 @@
             "ShowLogo": true
         },
         {
-            "ClientID": 232401,
-            "CompanyName": "SpeedStep",
-            "APIHost": "https://com-eg.net",
-            "APIPath": "/SpeedStep/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 232901,
-            "CompanyName": "BDXExpress",
-            "APIHost": "https://com-eg.net",
-            "APIPath": "/BDXExpress/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 230602,
-            "CompanyName": "SawaExpress",
-            "APIHost": "https://com-eg.net",
-            "APIPath": "/SawaExpress/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
             "ClientID": 231802,
             "CompanyName": "OwnerExpress",
             "APIHost": "https://com-eg.net",
@@ -229,14 +205,6 @@
             "CompanyName": "MrDelivery",
             "APIHost": "https://com-eg.net",
             "APIPath": "/MrDelivery/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 232003,
-            "CompanyName": "Yotela",
-            "APIHost": "https://com-eg.net",
-            "APIPath": "/Yotela/",
             "ApiVersion": 6,
             "ShowLogo": true
         },
@@ -269,22 +237,6 @@
             "CompanyName": "GolfExpress",
             "APIHost": "https://vsoftrunner.com-eg.net",
             "APIPath": "/GolfExpress/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 230705,
-            "CompanyName": "FolyExpress",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/FolyExpress/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 231106,
-            "CompanyName": "DeerShipping",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/DeerShipping/",
             "ApiVersion": 6,
             "ShowLogo": true
         },
