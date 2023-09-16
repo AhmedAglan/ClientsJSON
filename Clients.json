@@ -83,9 +83,9 @@
         {
             "ClientID": 202609,
             "CompanyName": "Pick and Go",
-            "APIHost": "https://com-eg.net",
-            "APIPath": "/PickAndGoAPI/",
-            "ApiVersion": 5,
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/PickAndGo/",
+            "ApiVersion": 6,
             "ShowLogo": true
         },
         {
