@@ -351,6 +351,14 @@
             "APIPath": "/OutHyre/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 232109,
+            "CompanyName": "LocationExpress",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/LocationExpress/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }
