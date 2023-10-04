@@ -359,6 +359,14 @@
             "APIPath": "/LocationExpress/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 230410,
+            "CompanyName": "BLink",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/BLink/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }
