@@ -560,6 +560,17 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#011B7B"
+        },
+        {
+            "ClientID": 221805,
+            "CompanyName": "Shorouk",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#011B7B"
         }
     ]
 }
