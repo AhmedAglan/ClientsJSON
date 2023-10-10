@@ -367,6 +367,14 @@
             "APIPath": "/BLink/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 230910,
+            "CompanyName": "ElOkaby",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/ElOkaby/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }
