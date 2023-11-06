@@ -383,6 +383,14 @@
             "APIPath": "/Thabit/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 230611,
+            "CompanyName": "SuperEx",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/SuperEx/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }
