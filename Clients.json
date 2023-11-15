@@ -391,6 +391,14 @@
             "APIPath": "/SuperEx/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 231511,
+            "CompanyName": "vHubsOman",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/vHubsOman/",
+            "ApiVersion": 6,
+            "ShowLogo": true
         }
     ]
 }
