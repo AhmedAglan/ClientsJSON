@@ -125,7 +125,7 @@
             "CompanyName": "Aliens Express",
             "APIHost": "http://vsoftrunner.com-eg.net",
             "APIPath": "/Aliens/",
-            "ApiVersion": 6,
+            "ApiVersion": 7,
             "ShowLogo": true
         },
         {
