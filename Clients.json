@@ -399,6 +399,14 @@
             "APIPath": "/vHubsOman/",
             "ApiVersion": 6,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 221005,
+            "CompanyName": "Konex",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/Konex/",
+            "ApiVersion": 7,
+            "ShowLogo": true
         }
     ]
 }
