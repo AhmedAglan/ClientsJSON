@@ -637,6 +637,17 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#011B7B"
+        },
+        {
+            "ClientID": 202906,
+            "CompanyName": "OnTime",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#011B7B"
         }
     ]
 }
