@@ -407,6 +407,14 @@
             "APIPath": "/Konex/",
             "ApiVersion": 7,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 230412,
+            "CompanyName": "BirdExp",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/BirdExp/",
+            "ApiVersion": 7,
+            "ShowLogo": true
         }
     ]
 }
