@@ -166,17 +166,6 @@
             "BasicColor":"#912642"
         },
         {
-            "ClientID": 221909,
-            "CompanyName": "We2",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#D71905"
-        },
-        {
             "ClientID": 202110,
             "CompanyName": "Eagle",
             "APIHost": "https://vsoftapi.com-eg.net",
@@ -265,17 +254,6 @@
             "BasicColor":"#0C4AB5"
         },
         {
-            "ClientID": 230902,
-            "CompanyName": "Revona Express",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#058AFF"
-        },
-        {
             "ClientID": 231802,
             "CompanyName": "Owner Express",
             "APIHost": "https://vsoftapi.com-eg.net",
@@ -300,17 +278,6 @@
         {
             "ClientID": 231303,
             "CompanyName": "MrDelivery",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#011B7C"
-        },
-        {
-            "ClientID": 182209,
-            "CompanyName": "EGL",
             "APIHost": "https://vsoftapi.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 6,
@@ -375,30 +342,8 @@
             "BasicColor":"#011B7B"
         },
         {
-            "ClientID": 231406,
-            "CompanyName": "VIPExpress",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#011B7B"
-        },
-        {
             "ClientID": 230507,
             "CompanyName": "Tawseela",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#011B7B"
-        },
-        {
-            "ClientID": 230807,
-            "CompanyName": "Movdex",
             "APIHost": "https://vsoftapi.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 6,
@@ -441,30 +386,8 @@
             "BasicColor":"#011B7B"
         },
         {
-            "ClientID": 230708,
-            "CompanyName": "ClickExpress",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#011B7B"
-        },
-        {
             "ClientID": 222010,
             "CompanyName": "HazemHalan",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#011B7B"
-        },
-        {
-            "ClientID": 231208,
-            "CompanyName": "SwiftShip",
             "APIHost": "https://vsoftapi.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 6,
@@ -507,28 +430,6 @@
             "BasicColor":"#011B7B"
         },
         {
-            "ClientID": 230309,
-            "CompanyName": "OneDayEx",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#011B7B"
-        },
-        {
-            "ClientID": 230809,
-            "CompanyName": "PackupEx",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#011B7B"
-        },
-        {
             "ClientID": 231209,
             "CompanyName": "OutHyre",
             "APIHost": "https://vsoftapi.com-eg.net",
@@ -542,17 +443,6 @@
         {
             "ClientID": 232109,
             "CompanyName": "LocationExpress",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#011B7B"
-        },
-        {
-            "ClientID": 230410,
-            "CompanyName": "BLink",
             "APIHost": "https://vsoftapi.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 6,
@@ -586,17 +476,6 @@
         {
             "ClientID": 232110,
             "CompanyName": "Roshdy",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#011B7B"
-        },
-        {
-            "ClientID": 230611,
-            "CompanyName": "SuperEx",
             "APIHost": "https://vsoftapi.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 6,

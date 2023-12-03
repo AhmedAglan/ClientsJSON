@@ -25,14 +25,6 @@
             "ShowLogo": true
         },
         {
-            "ClientID": 182209,
-            "CompanyName": "EGL",
-            "APIHost": "https://com-eg.net",
-            "APIPath": "/EGL/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
             "ClientID": 191307,
             "CompanyName": "Esh7enly",
             "APIHost": "https://vsoftrunner.com-eg.net",
@@ -185,14 +177,6 @@
             "ShowLogo": true
         },
         {
-            "ClientID": 220910,
-            "CompanyName": "SkyNet",
-            "APIHost": "https://com-eg.net",
-            "APIPath": "/SkyNet/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
             "ClientID": 231802,
             "CompanyName": "OwnerExpress",
             "APIHost": "https://com-eg.net",
@@ -241,14 +225,6 @@
             "ShowLogo": true
         },
         {
-            "ClientID": 231406,
-            "CompanyName": "VIPExpress",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/VIPExpress/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
             "ClientID": 232606,
             "CompanyName": "ElRahala",
             "APIHost": "https://vsoftrunner.com-eg.net",
@@ -289,26 +265,10 @@
             "ShowLogo": true
         },
         {
-            "ClientID": 230708,
-            "CompanyName": "ClickExpress",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/ClickExpress/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
             "ClientID": 221504,
             "CompanyName": "Sekka",
             "APIHost": "https://vsoftrunner.com-eg.net",
             "APIPath": "/Sekka/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 231208,
-            "CompanyName": "SwiftShip",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/SwiftShip/",
             "ApiVersion": 6,
             "ShowLogo": true
         },
@@ -329,22 +289,6 @@
             "ShowLogo": true
         },
         {
-            "ClientID": 230309,
-            "CompanyName": "OneDayEx",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/OneDayEx/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 230809,
-            "CompanyName": "PackupEx",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/PackupEx/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
             "ClientID": 231209,
             "CompanyName": "OutHyre",
             "APIHost": "https://vsoftrunner.com-eg.net",
@@ -361,14 +305,6 @@
             "ShowLogo": true
         },
         {
-            "ClientID": 230410,
-            "CompanyName": "BLink",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/BLink/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
             "ClientID": 230910,
             "CompanyName": "ElOkaby",
             "APIHost": "https://vsoftrunner.com-eg.net",
@@ -381,14 +317,6 @@
             "CompanyName": "Thabit",
             "APIHost": "https://vsoftrunner.com-eg.net",
             "APIPath": "/Thabit/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 230611,
-            "CompanyName": "SuperEx",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/SuperEx/",
             "ApiVersion": 6,
             "ShowLogo": true
         },
