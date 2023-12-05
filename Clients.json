@@ -209,14 +209,6 @@
             "ShowLogo": true
         },
         {
-            "ClientID": 222010,
-            "CompanyName": "HazemHalan",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/HazemHalan/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
             "ClientID": 230505,
             "CompanyName": "GolfExpress",
             "APIHost": "https://vsoftrunner.com-eg.net",
@@ -341,6 +333,14 @@
             "CompanyName": "BirdExp",
             "APIHost": "https://vsoftrunner.com-eg.net",
             "APIPath": "/BirdExp/",
+            "ApiVersion": 7,
+            "ShowLogo": true
+        },
+        {
+            "ClientID": 230612,
+            "CompanyName": "Rocket",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/Rocket/",
             "ApiVersion": 7,
             "ShowLogo": true
         }
