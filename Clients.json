@@ -343,6 +343,22 @@
             "APIPath": "/Rocket/",
             "ApiVersion": 7,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 232412,
+            "CompanyName": "MarExpress",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/MarExpress/",
+            "ApiVersion": 7,
+            "ShowLogo": true
+        },
+        {
+            "ClientID": 232512,
+            "CompanyName": "Performance",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/Performance/",
+            "ApiVersion": 7,
+            "ShowLogo": true
         }
     ]
 }
