@@ -35,8 +35,8 @@
         {
             "ClientID": 180109,
             "CompanyName": "Line Express",
-            "APIHost": "https://lineexrunner.com-eg.net",
-            "APIPath": "/",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/LineExpress/",
             "ApiVersion": 5,
             "ShowLogo": true
         },
