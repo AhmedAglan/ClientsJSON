@@ -349,7 +349,7 @@
             "CompanyName": "MarExpress",
             "APIHost": "https://vsoftrunner.com-eg.net",
             "APIPath": "/MarExpress/",
-            "ApiVersion": 6,
+            "ApiVersion": 7,
             "ShowLogo": true
         },
         {
