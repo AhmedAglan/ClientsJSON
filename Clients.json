@@ -359,6 +359,14 @@
             "APIPath": "/Performance/",
             "ApiVersion": 7,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 240501,
+            "CompanyName": "TigerSpeed",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/TigerSpeed/",
+            "ApiVersion": 7,
+            "ShowLogo": true
         }
     ]
 }
