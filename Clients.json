@@ -367,6 +367,14 @@
             "APIPath": "/TigerSpeed/",
             "ApiVersion": 7,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 240701,
+            "CompanyName": "DecaPo",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/DecaPo/",
+            "ApiVersion": 7,
+            "ShowLogo": true
         }
     ]
 }
