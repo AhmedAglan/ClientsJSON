@@ -375,6 +375,14 @@
             "APIPath": "/DecaPo/",
             "ApiVersion": 7,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 240901,
+            "CompanyName": "FawalExpress",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/FawalExpress/",
+            "ApiVersion": 7,
+            "ShowLogo": true
         }
     ]
 }
