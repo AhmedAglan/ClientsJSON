@@ -383,6 +383,22 @@
             "APIPath": "/FawalExpress/",
             "ApiVersion": 7,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 241301,
+            "CompanyName": "Ricrac",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/Ricrac/",
+            "ApiVersion": 7,
+            "ShowLogo": true
+        },
+        {
+            "ClientID": 231208,
+            "CompanyName": "SwiftShip",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/SwiftShip/",
+            "ApiVersion": 7,
+            "ShowLogo": true
         }
     ]
 }
