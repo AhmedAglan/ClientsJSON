@@ -353,10 +353,10 @@
             "ShowLogo": true
         },
         {
-            "ClientID": 232512,
-            "CompanyName": "Performance",
+            "ClientID": 241701,
+            "CompanyName": "FullSpeed",
             "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/Performance/",
+            "APIPath": "/FullSpeed/",
             "ApiVersion": 7,
             "ShowLogo": true
         },
