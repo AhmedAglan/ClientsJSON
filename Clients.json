@@ -45,7 +45,7 @@
             "CompanyName": "Kangaroo",
             "APIHost": "https://kexpress.org",
             "APIPath": "/KAPI/",
-            "ApiVersion": 5,
+            "ApiVersion": 6,
             "ShowLogo": true
         },
         {
@@ -61,7 +61,7 @@
             "CompanyName": "Message-Express",
             "APIHost": "http://api.message-express.com",
             "APIPath": "/",
-            "ApiVersion": 5,
+            "ApiVersion": 6,
             "ShowLogo": true
         },
         {
@@ -69,7 +69,7 @@
             "CompanyName": "Eagle Express",
             "APIHost": "https://com-eg.net",
             "APIPath": "/EagleAPI/",
-            "ApiVersion": 5,
+            "ApiVersion": 6,
             "ShowLogo": true
         },
         {
@@ -85,7 +85,7 @@
             "CompanyName": "Mesco",
             "APIHost": "https://com-eg.net",
             "APIPath": "/FineExpressAPI/",
-            "ApiVersion": 5,
+            "ApiVersion": 6,
             "ShowLogo": true
         },
         {
@@ -109,7 +109,7 @@
             "CompanyName": "GExpress",
             "APIHost": "https://grunner.com-eg.net",
             "APIPath": "/",
-            "ApiVersion": 5,
+            "ApiVersion": 6,
             "ShowLogo": true
         },
         {
