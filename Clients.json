@@ -399,6 +399,14 @@
             "APIPath": "/SwiftShip/",
             "ApiVersion": 7,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 242201,
+            "CompanyName": "ABC",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/ABC/",
+            "ApiVersion": 7,
+            "ShowLogo": true
         }
     ]
 }
