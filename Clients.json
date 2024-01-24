@@ -107,8 +107,8 @@
         {
             "ClientID": 140111,
             "CompanyName": "GExpress",
-            "APIHost": "https://grunner.com-eg.net",
-            "APIPath": "/",
+            "APIHost": "http://vsoftrunner.com-eg.net",
+            "APIPath": "/GExpress/",
             "ApiVersion": 6,
             "ShowLogo": true
         },
