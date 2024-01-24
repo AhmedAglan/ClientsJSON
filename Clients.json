@@ -83,8 +83,8 @@
         {
             "ClientID": 201511,
             "CompanyName": "Mesco",
-            "APIHost": "https://com-eg.net",
-            "APIPath": "/FineExpressAPI/",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/FineExpress/",
             "ApiVersion": 6,
             "ShowLogo": true
         },
