@@ -407,6 +407,14 @@
             "APIPath": "/ABC/",
             "ApiVersion": 7,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 242801,
+            "CompanyName": "Cargo",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/Cargo/",
+            "ApiVersion": 7,
+            "ShowLogo": true
         }
     ]
 }
