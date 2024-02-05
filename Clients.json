@@ -153,14 +153,6 @@
             "ShowLogo": true
         },
         {
-            "ClientID": 221209,
-            "CompanyName": "Servex",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/Servex/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
             "ClientID": 222709,
             "CompanyName": "PanEgypt",
             "APIHost": "https://vsoftrunner.com-eg.net",
@@ -289,22 +281,6 @@
             "ShowLogo": true
         },
         {
-            "ClientID": 232109,
-            "CompanyName": "LocationExpress",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/LocationExpress/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 230910,
-            "CompanyName": "ElOkaby",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/ElOkaby/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
             "ClientID": 232010,
             "CompanyName": "Thabit",
             "APIHost": "https://vsoftrunner.com-eg.net",
@@ -329,42 +305,10 @@
             "ShowLogo": true
         },
         {
-            "ClientID": 230412,
-            "CompanyName": "BirdExp",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/BirdExp/",
-            "ApiVersion": 7,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 230612,
-            "CompanyName": "Rocket",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/Rocket/",
-            "ApiVersion": 7,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 232412,
-            "CompanyName": "MarExpress",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/MarExpress/",
-            "ApiVersion": 7,
-            "ShowLogo": true
-        },
-        {
             "ClientID": 241701,
             "CompanyName": "FullSpeed",
             "APIHost": "https://vsoftrunner.com-eg.net",
             "APIPath": "/FullSpeed/",
-            "ApiVersion": 7,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 240501,
-            "CompanyName": "TigerSpeed",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/TigerSpeed/",
             "ApiVersion": 7,
             "ShowLogo": true
         },
@@ -389,14 +333,6 @@
             "CompanyName": "Ricrac",
             "APIHost": "https://vsoftrunner.com-eg.net",
             "APIPath": "/Ricrac/",
-            "ApiVersion": 7,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 231208,
-            "CompanyName": "SwiftShip",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/SwiftShip/",
             "ApiVersion": 7,
             "ShowLogo": true
         },
