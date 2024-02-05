@@ -1,0 +1,37 @@
+{
+    "ClientsList": [
+        {
+            "ClientID": 999999,
+            "CompanyName": "Demo",
+            "APIHost": "https://vsoft.com-eg.net:9091/",
+            "APIPath": "/",
+            "ApiVersion": 1,
+            "Logo": "",
+            "Background": "",
+            "IsSubscription": true,
+            "BasicColor": "#0F8369"
+        },
+        {
+            "ClientID": 888888,
+            "CompanyName": "Demo 88",
+            "APIHost": "https://localhost:9091",
+            "APIPath": "/",
+            "ApiVersion": 1,
+            "Logo": "",
+            "Background": "",
+            "IsSubscription": true,
+            "BasicColor": "#00137F"
+        },
+        {
+            "ClientID": 212606,
+            "CompanyName": "Aliens",
+            "APIHost": "https://vsoft.com-eg.net:9091/",
+            "APIPath": "/",
+            "ApiVersion": 1,
+            "Logo": "",
+            "Background": "",
+            "IsSubscription": true,
+            "BasicColor": "#FE0000"
+        }
+    ]
+}
