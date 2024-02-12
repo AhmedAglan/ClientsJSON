@@ -351,6 +351,14 @@
             "APIPath": "/Cargo/",
             "ApiVersion": 7,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 241202,
+            "CompanyName": "FeElTareek",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/FeElTareek/",
+            "ApiVersion": 7,
+            "ShowLogo": true
         }
     ]
 }
