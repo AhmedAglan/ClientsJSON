@@ -45,7 +45,7 @@
             "CompanyName": "Kangaroo",
             "APIHost": "https://kexpress.org",
             "APIPath": "/KAPI/",
-            "ApiVersion": 6,
+            "ApiVersion": 7,
             "ShowLogo": true
         },
         {
