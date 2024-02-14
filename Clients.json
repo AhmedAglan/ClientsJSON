@@ -42,9 +42,9 @@
         },
         {
             "ClientID": 201601,
-            "CompanyName": "Kangaroo",
-            "APIHost": "https://kexpress.org",
-            "APIPath": "/KAPI/",
+            "CompanyName": "KExpress",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/KExpress/",
             "ApiVersion": 7,
             "ShowLogo": true
         },
