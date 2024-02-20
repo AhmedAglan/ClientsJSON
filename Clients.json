@@ -359,6 +359,14 @@
             "APIPath": "/FeElTareek/",
             "ApiVersion": 7,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 241302,
+            "CompanyName": "EgyPostDemo",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/EgyPostDemo/",
+            "ApiVersion": 7,
+            "ShowLogo": true
         }
     ]
 }
