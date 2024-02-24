@@ -34,8 +34,8 @@
             "BasicColor": "#FE0000"
         },
         {
-            "ClientID": 241202,
-            "CompanyName": "FeElTareek",
+            "ClientID": 221303,
+            "CompanyName": "VsShipping",
             "APIHost": "https://vsoft.com-eg.net:9091/",
             "APIPath": "/",
             "ApiVersion": 1,
