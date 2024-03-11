@@ -43,6 +43,17 @@
             "Background": "",
             "IsSubscription": true,
             "BasicColor": "#FE0000"
+        },
+        {
+            "ClientID": 222710,
+            "CompanyName": "vHUbsAE",
+            "APIHost": "https://vsoft.com-eg.net:9091/",
+            "APIPath": "/",
+            "ApiVersion": 1,
+            "Logo": "",
+            "Background": "",
+            "IsSubscription": true,
+            "BasicColor": "#FE0000"
         }
     ]
 }
