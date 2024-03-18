@@ -54,6 +54,17 @@
             "Background": "",
             "IsSubscription": true,
             "BasicColor": "#FE0000"
+        },
+        {
+            "ClientID": 200101,
+            "CompanyName": "AMD Express",
+            "APIHost": "https://vsoft.com-eg.net:9091/",
+            "APIPath": "/",
+            "ApiVersion": 1,
+            "Logo": "",
+            "Background": "",
+            "IsSubscription": true,
+            "BasicColor": "#FE0000"
         }
     ]
 }
