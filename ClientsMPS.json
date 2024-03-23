@@ -518,17 +518,6 @@
             "BasicColor":"#011B7B"
         },
         {
-            "ClientID": 241201,
-            "CompanyName": "EHStart",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#011B7B"
-        },
-        {
             "ClientID": 241301,
             "CompanyName": "Ricrac",
             "APIHost": "https://vsoftapi.com-eg.net",
