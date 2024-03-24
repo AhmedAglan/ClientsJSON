@@ -13,7 +13,7 @@
             "CompanyName": "Debug Client",
             "APIHost": "https://192.168.1.199:5051",
             "APIPath": "/",
-            "ApiVersion": 6,
+            "ApiVersion": 7,
             "ShowLogo": true
         },
         {
