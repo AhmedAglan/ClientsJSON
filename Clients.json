@@ -5,7 +5,7 @@
             "CompanyName": "VSoft Demo",
             "APIHost": "https://runnerapi.com-eg.net",
             "APIPath": "/",
-            "ApiVersion": 6,
+            "ApiVersion": 7,
             "ShowLogo": true
         },
         {
