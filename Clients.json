@@ -367,6 +367,22 @@
             "APIPath": "/EgyPostDemo/",
             "ApiVersion": 7,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 242503,
+            "CompanyName": "vHubsQtr",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/vHubsQtr/",
+            "ApiVersion": 7,
+            "ShowLogo": true
+        },
+        {
+            "ClientID": 242603,
+            "CompanyName": "vHubsKwt",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/vHubsKwt/",
+            "ApiVersion": 7,
+            "ShowLogo": true
         }
     ]
 }

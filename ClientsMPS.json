@@ -593,6 +593,28 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#011B7B"
+        },
+        {
+            "ClientID": 242503,
+            "CompanyName": "vHubsQtr",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#011B7B"
+        },
+        {
+            "ClientID": 242603,
+            "CompanyName": "vHubsKwt",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#011B7B"
         }
     ]
 }
