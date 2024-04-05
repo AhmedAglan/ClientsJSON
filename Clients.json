@@ -383,6 +383,14 @@
             "APIPath": "/vHubsKwt/",
             "ApiVersion": 7,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 240504,
+            "CompanyName": "Baybars",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/Baybars/",
+            "ApiVersion": 7,
+            "ShowLogo": true
         }
     ]
 }

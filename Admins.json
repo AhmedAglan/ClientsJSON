@@ -65,6 +65,17 @@
             "Background": "",
             "IsSubscription": true,
             "BasicColor": "#FE0000"
+        },
+        {
+            "ClientID": 240504,
+            "CompanyName": "Baybars",
+            "APIHost": "https://vsoft.com-eg.net:9091/",
+            "APIPath": "/",
+            "ApiVersion": 1,
+            "Logo": "",
+            "Background": "",
+            "IsSubscription": true,
+            "BasicColor": "#FE0000"
         }
     ]
 }
