@@ -11,7 +11,7 @@
         {
             "ClientID": 999998,
             "CompanyName": "Debug HTTP",
-            "APIHost": "http://192.168.1.199:5050",
+            "APIHost": "http://vsoftrunner.com-eg.net:5050",
             "APIPath": "/",
             "ApiVersion": 7,
             "ShowLogo": true
@@ -19,7 +19,7 @@
         {
             "ClientID": 999997,
             "CompanyName": "Debug HTTPS",
-            "APIHost": "https://192.168.1.199:5051",
+            "APIHost": "https://vsoftrunner.com-eg.net:5051",
             "APIPath": "/",
             "ApiVersion": 7,
             "ShowLogo": true
