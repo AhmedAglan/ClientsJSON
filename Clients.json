@@ -51,8 +51,8 @@
         {
             "ClientID": 201601,
             "CompanyName": "KExpress",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/KExpress/",
+            "APIHost": "https://vsoftrunners.com-eg.net",
+            "APIPath": "/",
             "ApiVersion": 7,
             "ShowLogo": true
         },
@@ -123,8 +123,8 @@
         {
             "ClientID": 212606,
             "CompanyName": "Aliens Express",
-            "APIHost": "http://vsoftrunner.com-eg.net",
-            "APIPath": "/Aliens/",
+            "APIHost": "https://vsoftrunners.com-eg.net",
+            "APIPath": "/",
             "ApiVersion": 7,
             "ShowLogo": true
         },
