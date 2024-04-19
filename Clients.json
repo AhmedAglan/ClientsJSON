@@ -3,7 +3,7 @@
         {
             "ClientID": 999999,
             "CompanyName": "VSoft Demo",
-            "APIHost": "https://runnerapi.com-eg.net",
+            "APIHost": "https://vsoftrunners.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 7,
             "ShowLogo": true
@@ -235,8 +235,8 @@
         {
             "ClientID": 221108,
             "CompanyName": "VSoftDemo",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/VSoftDemo/",
+            "APIHost": "https://vsoftrunners.com-eg.net",
+            "APIPath": "/",
             "ApiVersion": 7,
             "ShowLogo": true
         },
