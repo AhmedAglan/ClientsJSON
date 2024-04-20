@@ -123,8 +123,8 @@
         {
             "ClientID": 212606,
             "CompanyName": "Aliens Express",
-            "APIHost": "https://vsoftrunners.com-eg.net",
-            "APIPath": "/",
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/Aliens/",
             "ApiVersion": 7,
             "ShowLogo": true
         },
