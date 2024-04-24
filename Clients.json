@@ -399,6 +399,22 @@
             "APIPath": "/Baybars/",
             "ApiVersion": 7,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 242404,
+            "CompanyName": "KayanExpress",
+            "APIHost": "https://vsoftrunners.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 7,
+            "ShowLogo": true
+        },
+        {
+            "ClientID": 242504,
+            "CompanyName": "Five Horse",
+            "APIHost": "https://vsoftrunners.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 7,
+            "ShowLogo": true
         }
     ]
 }
