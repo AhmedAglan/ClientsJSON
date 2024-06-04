@@ -459,9 +459,9 @@
         {
             "ClientID": 242405,
             "CompanyName": "Khazenly",
-            "APIHost": "https://vsoftrunners.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 7,
+            "APIHost": "https://vsoftrunner.com-eg.net",
+            "APIPath": "/Khazenly/",
+            "ApiVersion": 6,
             "ShowLogo": true
         },
         {
