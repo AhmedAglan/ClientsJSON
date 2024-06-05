@@ -45,7 +45,7 @@
             "CompanyName": "Line Express",
             "APIHost": "https://vsoftrunner.com-eg.net",
             "APIPath": "/LineExpress/",
-            "ApiVersion": 5,
+            "ApiVersion": 7,
             "ShowLogo": true
         },
         {
