@@ -82,7 +82,7 @@
         },
         {
             "ClientID": 202609,
-            "CompanyName": "Your Trusted Business Partner !",
+            "CompanyName": "Pick and Go",
             "APIHost": "https://vsoftrunner.com-eg.net",
             "APIPath": "/PickAndGo/",
             "ApiVersion": 6,
