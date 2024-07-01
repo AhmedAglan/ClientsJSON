@@ -76,6 +76,17 @@
             "Background": "",
             "IsSubscription": true,
             "BasicColor": "#FE0000"
+        },
+        {
+            "ClientID": 241205,
+            "CompanyName": "EcoMilez",
+            "APIHost": "https://vsoft.com-eg.net:9091/",
+            "APIPath": "/",
+            "ApiVersion": 1,
+            "Logo": "",
+            "Background": "",
+            "IsSubscription": true,
+            "BasicColor": "#FE0000"
         }
     ]
 }
