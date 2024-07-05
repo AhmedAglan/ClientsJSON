@@ -1,0 +1,40 @@
+{
+    "ClientsList": [
+        {
+            "ClientID": 999999,
+            "CompanyName": "VSoft Demo",
+            "APIHost": "https://vsoftrunners.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 7,
+            "ShowLogo": true,
+            "BasicColor":"0xFF0677EB"
+        },
+        {
+            "ClientID": 999998,
+            "CompanyName": "Debug HTTP",
+            "APIHost": "http://vsoftrunners.com-eg.net:5050",
+            "APIPath": "/",
+            "ApiVersion": 7,
+            "ShowLogo": true,
+            "BasicColor":"0xFF0677EB"
+        },
+        {
+            "ClientID": 999997,
+            "CompanyName": "Debug HTTPS",
+            "APIHost": "https://vsoftrunners.com-eg.net:5051",
+            "APIPath": "/",
+            "ApiVersion": 7,
+            "ShowLogo": true,
+            "BasicColor":"0xFF0677EB"
+        },
+        {
+            "ClientID": 221108,
+            "CompanyName": "VSoft Demo",
+            "APIHost": "https://vsoftrunners.com-eg.net:5051",
+            "APIPath": "/",
+            "ApiVersion": 7,
+            "ShowLogo": true,
+            "BasicColor":"0xFF0677EB"
+        }
+    ]
+}
