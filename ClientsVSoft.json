@@ -30,8 +30,17 @@
         {
             "ClientID": 221108,
             "CompanyName": "VSoft Demo",
-            "APIHost": "https://vsoftrunners.com-eg.net:5051",
-            "APIPath": "/",
+            "APIHost": "https://vsoftrunners.com-eg.net/",
+            "APIPath": "api/RunnerUsers/V7",
+            "ApiVersion": 7,
+            "ShowLogo": true,
+            "BasicColor":"0xFF0677EB"
+        },
+        {
+            "ClientID": 212606,
+            "CompanyName": "VSoft Demo",
+            "APIHost": "https://vsoftrunners.com-eg.net/",
+            "APIPath": "api/RunnerUsers/V7",
             "ApiVersion": 7,
             "ShowLogo": true,
             "BasicColor":"0xFF0677EB"
