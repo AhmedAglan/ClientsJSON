@@ -38,7 +38,7 @@
         },
         {
             "ClientID": 212606,
-            "CompanyName": "VSoft Demo",
+            "CompanyName": "Aliens",
             "APIHost": "https://vsoftrunners.com-eg.net/",
             "APIPath": "api/RunnerUsers/V7",
             "ApiVersion": 7,
