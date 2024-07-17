@@ -145,14 +145,6 @@
             "ShowLogo": true
         },
         {
-            "ClientID": 210105,
-            "CompanyName": "Halan",
-            "APIHost": "http://54.241.163.220",
-            "APIPath": "/HalanAPI/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
             "ClientID": 202810,
             "CompanyName": "BlueBird",
             "APIHost": "https://vsoftrunner.com-eg.net",
@@ -475,6 +467,14 @@
         {
             "ClientID": 241507,
             "CompanyName": "Wensh",
+            "APIHost": "https://vsoftrunners.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 7,
+            "ShowLogo": true
+        },
+        {
+            "ClientID": 210105,
+            "CompanyName": "Halan",
             "APIHost": "https://vsoftrunners.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 7,
