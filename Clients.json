@@ -169,14 +169,6 @@
             "ShowLogo": true
         },
         {
-            "ClientID": 231802,
-            "CompanyName": "OwnerExpress",
-            "APIHost": "https://com-eg.net",
-            "APIPath": "/OwnerExpress/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
             "ClientID": 231303,
             "CompanyName": "MrDelivery",
             "APIHost": "https://com-eg.net",
