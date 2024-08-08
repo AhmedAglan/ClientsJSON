@@ -265,17 +265,6 @@
             "BasicColor":"#011B7B"
         },
         {
-            "ClientID": 230505,
-            "CompanyName": "GolfExpress",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#011B7B"
-        },
-        {
             "ClientID": 221303,
             "CompanyName": "VSShipping",
             "APIHost": "https://vsoftapi.com-eg.net",
@@ -685,28 +674,6 @@
         {
             "ClientID": 242405,
             "CompanyName": "Khazenly",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#011B7B"
-        },
-        {
-            "ClientID": 242705,
-            "CompanyName": "SpeadOf",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#011B7B"
-        },
-        {
-            "ClientID": 231712,
-            "CompanyName": "GateExpress",
             "APIHost": "https://vsoftapi.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 6,

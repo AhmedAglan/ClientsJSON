@@ -193,14 +193,6 @@
             "ShowLogo": true
         },
         {
-            "ClientID": 230505,
-            "CompanyName": "GolfExpress",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/GolfExpress/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
             "ClientID": 232606,
             "CompanyName": "ElRahala",
             "APIHost": "https://vsoftrunner.com-eg.net",
@@ -446,14 +438,6 @@
             "APIHost": "https://vsoftrunner.com-eg.net",
             "APIPath": "/Khazenly/",
             "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 242705,
-            "CompanyName": "SpeadOf",
-            "APIHost": "https://vsoftrunners.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 7,
             "ShowLogo": true
         },
         {
