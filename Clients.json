@@ -331,8 +331,8 @@
         {
             "ClientID": 242801,
             "CompanyName": "Cargo",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/Cargo/",
+            "APIHost": "https://vsoftrunners.com-eg.net",
+            "APIPath": "/",
             "ApiVersion": 7,
             "ShowLogo": true
         },
