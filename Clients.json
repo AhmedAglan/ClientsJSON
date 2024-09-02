@@ -27,9 +27,9 @@
         {
             "ClientID": 190101,
             "CompanyName": "ABS Egypt",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/ABS/",
-            "ApiVersion": 6,
+            "APIHost": "https://runnersapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 7,
             "ShowLogo": true
         },
         {
