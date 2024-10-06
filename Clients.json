@@ -441,40 +441,8 @@
             "ShowLogo": true
         },
         {
-            "ClientID": 241507,
-            "CompanyName": "Wensh",
-            "APIHost": "https://vsoftrunners.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 7,
-            "ShowLogo": true
-        },
-        {
             "ClientID": 210105,
             "CompanyName": "Halan",
-            "APIHost": "https://vsoftrunners.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 7,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 240708,
-            "CompanyName": "TakuExpress",
-            "APIHost": "https://vsoftrunners.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 7,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 241408,
-            "CompanyName": "Flanker",
-            "APIHost": "https://vsoftrunners.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 7,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 241309,
-            "CompanyName": "MRK",
             "APIHost": "https://vsoftrunners.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 7,
