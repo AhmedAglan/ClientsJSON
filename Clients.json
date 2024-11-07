@@ -75,33 +75,17 @@
         {
             "ClientID": 202110,
             "CompanyName": "Eagle Express",
-            "APIHost": "https://com-eg.net",
-            "APIPath": "/EagleAPI/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 202609,
-            "CompanyName": "Pick and Go",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/PickAndGo/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 201511,
-            "CompanyName": "Mesco",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/FineExpress/",
-            "ApiVersion": 6,
+            "APIHost": "https://vsoftrunners.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 7,
             "ShowLogo": true
         },
         {
             "ClientID": 210102,
             "CompanyName": "Operation",
-            "APIHost": "https://com-eg.net",
-            "APIPath": "/OperationAPI/",
-            "ApiVersion": 6,
+            "APIHost": "https://vsoftrunners.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 7,
             "ShowLogo": true
         },
         {
@@ -129,19 +113,11 @@
             "ShowLogo": true
         },
         {
-            "ClientID": 211803,
-            "CompanyName": "GoFly",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/GoFly/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
             "ClientID": 202906,
             "CompanyName": "OnTime",
-            "APIHost": "https://com-eg.net",
-            "APIPath": "/OnTimeAPI/",
-            "ApiVersion": 6,
+            "APIHost": "https://vsoftrunners.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 7,
             "ShowLogo": true
         },
         {
@@ -163,17 +139,17 @@
         {
             "ClientID": 200101,
             "CompanyName": "AMD Express",
-            "APIHost": "https://com-eg.net",
-            "APIPath": "/AMDAPI/",
-            "ApiVersion": 6,
+            "APIHost": "https://vsoftrunners.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 7,
             "ShowLogo": true
         },
         {
             "ClientID": 231303,
             "CompanyName": "MrDelivery",
-            "APIHost": "https://com-eg.net",
-            "APIPath": "/MrDelivery/",
-            "ApiVersion": 6,
+            "APIHost": "https://vsoftrunners.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 7,
             "ShowLogo": true
         },
         {
@@ -233,22 +209,6 @@
             "ShowLogo": true
         },
         {
-            "ClientID": 221504,
-            "CompanyName": "Sekka",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/Sekka/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 232008,
-            "CompanyName": "SkyNetAE",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/SkyNetAE/",
-            "ApiVersion": 7,
-            "ShowLogo": true
-        },
-        {
             "ClientID": 230109,
             "CompanyName": "Maxab",
             "APIHost": "https://vsoftrunner.com-eg.net",
@@ -261,14 +221,6 @@
             "CompanyName": "OutHyre",
             "APIHost": "https://vsoftrunner.com-eg.net",
             "APIPath": "/OutHyre/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 232010,
-            "CompanyName": "Thabit",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/Thabit/",
             "ApiVersion": 6,
             "ShowLogo": true
         },
@@ -293,22 +245,6 @@
             "CompanyName": "FullSpeed",
             "APIHost": "https://vsoftrunner.com-eg.net",
             "APIPath": "/FullSpeed/",
-            "ApiVersion": 7,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 240701,
-            "CompanyName": "DecaPo",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/DecaPo/",
-            "ApiVersion": 7,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 240901,
-            "CompanyName": "FawalExpress",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/FawalExpress/",
             "ApiVersion": 7,
             "ShowLogo": true
         },
@@ -369,30 +305,6 @@
             "ShowLogo": true
         },
         {
-            "ClientID": 240504,
-            "CompanyName": "Baybars",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/Baybars/",
-            "ApiVersion": 7,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 242404,
-            "CompanyName": "KayanExpress",
-            "APIHost": "https://vsoftrunners.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 7,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 242504,
-            "CompanyName": "Five Horse",
-            "APIHost": "https://vsoftrunners.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 7,
-            "ShowLogo": true
-        },
-        {
             "ClientID": 240605,
             "CompanyName": "YFS",
             "APIHost": "https://vsoftrunners.com-eg.net",
@@ -411,22 +323,6 @@
         {
             "ClientID": 241205,
             "CompanyName": "Ecomilez",
-            "APIHost": "https://vsoftrunners.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 7,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 241305,
-            "CompanyName": "UTurnExpress",
-            "APIHost": "https://vsoftrunners.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 7,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 242105,
-            "CompanyName": "HotLineExpress",
             "APIHost": "https://vsoftrunners.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 7,
