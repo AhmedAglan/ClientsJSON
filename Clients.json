@@ -265,14 +265,6 @@
             "ShowLogo": true
         },
         {
-            "ClientID": 242801,
-            "CompanyName": "Cargo",
-            "APIHost": "https://vsoftrunners.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 7,
-            "ShowLogo": true
-        },
-        {
             "ClientID": 241202,
             "CompanyName": "FeElTareek",
             "APIHost": "https://vsoftrunner.com-eg.net",
@@ -355,14 +347,6 @@
         {
             "ClientID": 241610,
             "CompanyName": "Just Fast",
-            "APIHost": "https://vsoftrunners.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 7,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 242810,
-            "CompanyName": "Fox",
             "APIHost": "https://vsoftrunners.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 7,

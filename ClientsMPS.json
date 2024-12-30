@@ -474,17 +474,6 @@
             "BasicColor":"#011B7B"
         },
         {
-            "ClientID": 242801,
-            "CompanyName": "Cargo",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#011B7B"
-        },
-        {
             "ClientID": 241202,
             "CompanyName": "FeElTareek",
             "APIHost": "https://vsoftapi.com-eg.net",
@@ -674,17 +663,6 @@
         {
             "ClientID": 241610,
             "CompanyName": "Just Fast",
-            "APIHost": "https://vsoftapi.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
-            "Logo":"",
-            "Background":"",
-            "IsSubscription":true,
-            "BasicColor":"#011B7B"
-        },
-        {
-            "ClientID": 242810,
-            "CompanyName": "Fox",
             "APIHost": "https://vsoftapi.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 6,
