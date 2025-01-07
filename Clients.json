@@ -203,9 +203,9 @@
         {
             "ClientID": 232707,
             "CompanyName": "HalanDomiat",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/HalanDomiat/",
-            "ApiVersion": 6,
+            "APIHost": "https://vsoftrunners.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 7,
             "ShowLogo": true
         },
         {
