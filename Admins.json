@@ -3,7 +3,7 @@
         {
             "ClientID": 999999,
             "CompanyName": "Demo",
-            "APIHost": "https://vsoftadmin.com-eg.net/",
+            "APIHost": "https://vsoftadmin.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 1,
             "Logo": "",
@@ -25,7 +25,7 @@
         {
             "ClientID": 212606,
             "CompanyName": "Aliens",
-            "APIHost": "https://vsoftadmin.com-eg.net/",
+            "APIHost": "https://vsoftadmin.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 1,
             "Logo": "",
@@ -36,7 +36,7 @@
         {
             "ClientID": 221303,
             "CompanyName": "VsShipping",
-            "APIHost": "https://vsoftadmin.com-eg.net/",
+            "APIHost": "https://vsoftadmin.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 1,
             "Logo": "",
@@ -47,7 +47,7 @@
         {
             "ClientID": 222710,
             "CompanyName": "vHUbsAE",
-            "APIHost": "https://vsoftadmin.com-eg.net/",
+            "APIHost": "https://vsoftadmin.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 1,
             "Logo": "",
@@ -58,7 +58,7 @@
         {
             "ClientID": 200101,
             "CompanyName": "AMD Express",
-            "APIHost": "https://vsoftadmin.com-eg.net/",
+            "APIHost": "https://vsoftadmin.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 1,
             "Logo": "",
@@ -69,7 +69,7 @@
         {
             "ClientID": 240504,
             "CompanyName": "Baybars",
-            "APIHost": "https://vsoftadmin.com-eg.net/",
+            "APIHost": "https://vsoftadmin.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 1,
             "Logo": "",
@@ -80,7 +80,7 @@
         {
             "ClientID": 241205,
             "CompanyName": "EcoMilez",
-            "APIHost": "https://vsoftadmin.com-eg.net/",
+            "APIHost": "https://vsoftadmin.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 1,
             "Logo": "",
@@ -91,7 +91,7 @@
         {
             "ClientID": 240912,
             "CompanyName": "Transporter",
-            "APIHost": "https://vsoftadmin.com-eg.net/",
+            "APIHost": "https://vsoftadmin.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 1,
             "Logo": "",
@@ -102,7 +102,7 @@
         {
             "ClientID": 230109,
             "CompanyName": "Maxab",
-            "APIHost": "https://vsoftadmin.com-eg.net/",
+            "APIHost": "https://vsoftadmin.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 1,
             "Logo": "",
@@ -113,7 +113,7 @@
         {
             "ClientID": 251901,
             "CompanyName": "SPLC Group",
-            "APIHost": "https://vsoftadmin.com-eg.net/",
+            "APIHost": "https://vsoftadmin.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 1,
             "Logo": "",
