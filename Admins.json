@@ -109,6 +109,17 @@
             "Background": "",
             "IsSubscription": true,
             "BasicColor": "#FE0000"
+        },
+        {
+            "ClientID": 251901,
+            "CompanyName": "SPLC Group",
+            "APIHost": "https://vsoft.com-eg.net:9091/",
+            "APIPath": "/",
+            "ApiVersion": 1,
+            "Logo": "",
+            "Background": "",
+            "IsSubscription": true,
+            "BasicColor": "#FE0000"
         }
     ]
 }

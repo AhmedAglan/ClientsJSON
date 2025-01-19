@@ -407,6 +407,14 @@
             "APIPath": "/",
             "ApiVersion": 7,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 251901,
+            "CompanyName": "SPLC Group",
+            "APIHost": "https://vsoftrunners.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 7,
+            "ShowLogo": true
         }
     ]
 }
