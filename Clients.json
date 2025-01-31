@@ -33,6 +33,14 @@
             "ShowLogo": true
         },
         {
+            "ClientID": 190100,
+            "CompanyName": "ABS Egypt",
+            "APIHost": "https://vsoftrunners.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 7,
+            "ShowLogo": true
+        },
+        {
             "ClientID": 191307,
             "CompanyName": "Esh7enly",
             "APIHost": "https://vsoftrunner.com-eg.net",
