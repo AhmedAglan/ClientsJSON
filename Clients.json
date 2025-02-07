@@ -431,6 +431,14 @@
             "APIPath": "/",
             "ApiVersion": 7,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 250802,
+            "CompanyName": "Ligix",
+            "APIHost": "https://vsoftrunners.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 7,
+            "ShowLogo": true
         }
     ]
 }
