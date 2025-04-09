@@ -115,7 +115,7 @@
         {
             "ClientID": 212606,
             "CompanyName": "Aliens Express",
-            "APIHost": "https://runnersapi.com-eg.net",
+            "APIHost": "https://vsoftrunners.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 7,
             "ShowLogo": true
