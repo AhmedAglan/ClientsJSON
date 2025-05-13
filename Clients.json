@@ -471,6 +471,14 @@
             "APIPath": "/",
             "ApiVersion": 7,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 242308,
+            "CompanyName": "Go Fast",
+            "APIHost": "https://vsoftrunners.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 7,
+            "ShowLogo": true
         }
     ]
 }
