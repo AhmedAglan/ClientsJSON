@@ -251,8 +251,8 @@
         {
             "ClientID": 241701,
             "CompanyName": "FullSpeed",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/FullSpeed/",
+            "APIHost": "https://vsoftrunners.com-eg.net",
+            "APIPath": "/",
             "ApiVersion": 7,
             "ShowLogo": true
         },
