@@ -813,6 +813,28 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#011B7B"
+        },
+        {
+            "ClientID": 252508,
+            "CompanyName": "PudoExpress",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#011B7B"
+        },
+        {
+            "ClientID": 252408,
+            "CompanyName": "LCMExpress",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#011B7B"
         }
     ]
 }
