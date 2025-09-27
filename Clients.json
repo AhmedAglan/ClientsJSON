@@ -195,8 +195,8 @@
         {
             "ClientID": 222710,
             "CompanyName": "vHubsAE",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/vHubsAE/",
+            "APIHost": "https://vsoftrunners.com-eg.net",
+            "APIPath": "/",
             "ApiVersion": 7,
             "ShowLogo": true
         },
