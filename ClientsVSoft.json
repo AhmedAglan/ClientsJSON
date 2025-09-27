@@ -53,6 +53,15 @@
             "ApiVersion": 7,
             "ShowLogo": true,
             "BasicColor":"0xFF8C0F06"
+        },
+        {
+            "ClientID": 222710,
+            "CompanyName": "vHubsAE",
+            "APIHost": "https://vsoftrunners.com-eg.net/",
+            "APIPath": "api/RunnerUsers/V7",
+            "ApiVersion": 7,
+            "ShowLogo": true,
+            "BasicColor":"0xFF8C0F06"
         }
     ]
 }
