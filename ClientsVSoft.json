@@ -61,7 +61,7 @@
             "APIPath": "api/RunnerUsers/V7",
             "ApiVersion": 7,
             "ShowLogo": true,
-            "BasicColor":"0xFF8C0F06"
+            "BasicColor":"0xFF232856"
         }
     ]
 }
