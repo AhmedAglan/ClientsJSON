@@ -80,6 +80,24 @@
             "ApiVersion": 7,
             "ShowLogo": true,
             "BasicColor":"0xFF232856"
+        },
+        {
+            "ClientID": 190101,
+            "CompanyName": "ABS Egypt",
+            "APIHost": "https://vsoftrunners.com-eg.net/",
+            "APIPath": "api/RunnerUsers/V7",
+            "ApiVersion": 7,
+            "ShowLogo": true,
+            "BasicColor":"0xFF232856"
+        },
+        {
+            "ClientID": 250204,
+            "CompanyName": "ABS Kuwait",
+            "APIHost": "https://vsoftrunners.com-eg.net/",
+            "APIPath": "api/RunnerUsers/V7",
+            "ApiVersion": 7,
+            "ShowLogo": true,
+            "BasicColor":"0xFF232856"
         }
     ]
 }
