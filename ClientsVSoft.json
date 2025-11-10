@@ -98,6 +98,15 @@
             "ApiVersion": 7,
             "ShowLogo": true,
             "BasicColor":"0xFF232856"
+        },
+        {
+            "ClientID": 200101,
+            "CompanyName": "AMD",
+            "APIHost": "https://vsoftrunners.com-eg.net/",
+            "APIPath": "api/RunnerUsers/V7",
+            "ApiVersion": 7,
+            "ShowLogo": true,
+            "BasicColor":"0xFF232856"
         }
     ]
 }
