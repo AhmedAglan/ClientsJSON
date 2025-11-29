@@ -527,6 +527,14 @@
             "APIPath": "/",
             "ApiVersion": 7,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 126364,
+            "CompanyName": "Enjaz",
+            "APIHost": "https://vsoftrunners.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 7,
+            "ShowLogo": true
         }
     ]
 }
