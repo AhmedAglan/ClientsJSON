@@ -9,22 +9,6 @@
             "ShowLogo": true
         },
         {
-            "ClientID": 999998,
-            "CompanyName": "Debug HTTP",
-            "APIHost": "http://vsoftrunner.com-eg.net:5050",
-            "APIPath": "/",
-            "ApiVersion": 7,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 999997,
-            "CompanyName": "Debug HTTPS",
-            "APIHost": "https://vsoftrunner.com-eg.net:5051",
-            "APIPath": "/",
-            "ApiVersion": 7,
-            "ShowLogo": true
-        },
-        {
             "ClientID": 190101,
             "CompanyName": "ABS Egypt",
             "APIHost": "https://vsoftrunners.com-eg.net",
@@ -161,30 +145,6 @@
             "ShowLogo": true
         },
         {
-            "ClientID": 230405,
-            "CompanyName": "HMExpress",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/HMExpress/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 232606,
-            "CompanyName": "ElRahala",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/ElRahala/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 230507,
-            "CompanyName": "Tawseela",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/Tawseela/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
             "ClientID": 221108,
             "CompanyName": "VSoftDemo",
             "APIHost": "https://vsoftrunners.com-eg.net",
@@ -209,35 +169,11 @@
             "ShowLogo": true
         },
         {
-            "ClientID": 230109,
-            "CompanyName": "Maxab",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/Maxab/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
             "ClientID": 231209,
             "CompanyName": "OutHyre",
             "APIHost": "https://vsoftrunner.com-eg.net",
             "APIPath": "/OutHyre/",
             "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 231511,
-            "CompanyName": "vHubsOman",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/vHubsOman/",
-            "ApiVersion": 6,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 221005,
-            "CompanyName": "Konex",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/Konex/",
-            "ApiVersion": 7,
             "ShowLogo": true
         },
         {
@@ -253,46 +189,6 @@
             "CompanyName": "Ricrac",
             "APIHost": "https://vsoftrunner.com-eg.net",
             "APIPath": "/Ricrac/",
-            "ApiVersion": 7,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 242201,
-            "CompanyName": "ABC",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/ABC/",
-            "ApiVersion": 7,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 241202,
-            "CompanyName": "FeElTareek",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/FeElTareek/",
-            "ApiVersion": 7,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 241302,
-            "CompanyName": "EgyPostDemo",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/EgyPostDemo/",
-            "ApiVersion": 7,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 242503,
-            "CompanyName": "vHubsQtr",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/vHubsQtr/",
-            "ApiVersion": 7,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 242603,
-            "CompanyName": "vHubsKwt",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/vHubsKwt/",
             "ApiVersion": 7,
             "ShowLogo": true
         },
@@ -318,14 +214,6 @@
             "APIHost": "https://vsoftrunners.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 7,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 242405,
-            "CompanyName": "Khazenly",
-            "APIHost": "https://vsoftrunner.com-eg.net",
-            "APIPath": "/Khazenly/",
-            "ApiVersion": 6,
             "ShowLogo": true
         },
         {
