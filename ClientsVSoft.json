@@ -128,7 +128,7 @@
         },
         {
             "ClientID": 221303,
-            "CompanyName": "VS Shipping",
+            "CompanyName": "VsShipping",
             "APIHost": "https://vsoftrunners.com-eg.net/",
             "APIPath": "api/RunnerUsers/V7",
             "ApiVersion": 7,
