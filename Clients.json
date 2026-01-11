@@ -11,7 +11,7 @@
         {
             "ClientID": 190101,
             "CompanyName": "ABS Egypt",
-            "APIHost": "https://vsoftrunners.com-eg.net",
+            "APIHost": "https://vsoftrunners2.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 7,
             "ShowLogo": true
@@ -59,7 +59,7 @@
         {
             "ClientID": 202110,
             "CompanyName": "Eagle Express",
-            "APIHost": "https://vsoftrunners.com-eg.net",
+            "APIHost": "https://vsoftrunners2.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 7,
             "ShowLogo": true
@@ -67,17 +67,9 @@
         {
             "ClientID": 210102,
             "CompanyName": "Operation",
-            "APIHost": "https://vsoftrunners.com-eg.net",
+            "APIHost": "https://vsoftrunners2.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 7,
-            "ShowLogo": true
-        },
-        {
-            "ClientID": 211701,
-            "CompanyName": "vHubs",
-            "APIHost": "https://vrunner.com-eg.net",
-            "APIPath": "/",
-            "ApiVersion": 6,
             "ShowLogo": true
         },
         {
