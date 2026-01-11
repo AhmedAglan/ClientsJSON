@@ -463,6 +463,14 @@
             "APIPath": "/",
             "ApiVersion": 7,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 250303,
+            "CompanyName": "OTE",
+            "APIHost": "https://vsoftrunners2.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 7,
+            "ShowLogo": true
         }
     ]
 }
