@@ -84,7 +84,7 @@
         {
             "ClientID": 190101,
             "CompanyName": "ABS Egypt",
-            "APIHost": "https://vsoftrunners.com-eg.net/",
+            "APIHost": "https://vsoftrunners2.com-eg.net/",
             "APIPath": "api/RunnerUsers/V7",
             "ApiVersion": 7,
             "ShowLogo": true,
@@ -93,7 +93,7 @@
         {
             "ClientID": 250204,
             "CompanyName": "ABS Kuwait",
-            "APIHost": "https://vsoftrunners.com-eg.net/",
+            "APIHost": "https://vsoftrunners2.com-eg.net/",
             "APIPath": "api/RunnerUsers/V7",
             "ApiVersion": 7,
             "ShowLogo": true,
