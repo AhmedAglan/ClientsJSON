@@ -143,6 +143,15 @@
             "ApiVersion": 7,
             "ShowLogo": true,
             "BasicColor":"0xFF232856"
+        },
+        {
+            "ClientID": 201601,
+            "CompanyName": "KExpress",
+            "APIHost": "https://vsoftrunners.com-eg.net/",
+            "APIPath": "api/RunnerUsers/V7",
+            "ApiVersion": 7,
+            "ShowLogo": true,
+            "BasicColor":"0xFF232856"
         }
     ]
 }
