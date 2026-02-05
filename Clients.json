@@ -471,6 +471,14 @@
             "APIPath": "/",
             "ApiVersion": 7,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 785538,
+            "CompanyName": "JD Express",
+            "APIHost": "https://vsoftrunners2.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 7,
+            "ShowLogo": true
         }
     ]
 }
