@@ -152,6 +152,14 @@
             "ApiVersion": 7,
             "ShowLogo": true,
             "BasicColor":"0xFF232856"
+        },
+        {
+            "ClientID": 251901,
+            "CompanyName": "SPLC Group",
+            "APIHost": "https://vsoftrunners.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 7,
+            "ShowLogo": true
         }
     ]
 }
