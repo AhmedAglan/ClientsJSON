@@ -479,6 +479,14 @@
             "APIPath": "/",
             "ApiVersion": 7,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 562234,
+            "CompanyName": "Trust Delivery",
+            "APIHost": "https://vsoftrunners2.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 7,
+            "ShowLogo": true
         }
     ]
 }
