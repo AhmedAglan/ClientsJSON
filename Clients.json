@@ -487,6 +487,14 @@
             "APIPath": "/",
             "ApiVersion": 7,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 125538,
+            "CompanyName": "MelokExpress",
+            "APIHost": "https://vsoftrunners2.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 7,
+            "ShowLogo": true
         }
     ]
 }
