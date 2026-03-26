@@ -59,7 +59,7 @@
         {
             "ClientID": 202110,
             "CompanyName": "Eagle Express",
-            "APIHost": "https://vsoftrunners2.com-eg.net",
+            "APIHost": "https://vsoftrunners.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 7,
             "ShowLogo": true
@@ -67,7 +67,7 @@
         {
             "ClientID": 210102,
             "CompanyName": "Operation",
-            "APIHost": "https://vsoftrunners2.com-eg.net",
+            "APIHost": "https://vsoftrunners.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 7,
             "ShowLogo": true
@@ -467,7 +467,7 @@
         {
             "ClientID": 250303,
             "CompanyName": "OTE",
-            "APIHost": "https://vsoftrunners2.com-eg.net",
+            "APIHost": "https://vsoftrunners.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 7,
             "ShowLogo": true
@@ -475,7 +475,7 @@
         {
             "ClientID": 785538,
             "CompanyName": "JD Express",
-            "APIHost": "https://vsoftrunners2.com-eg.net",
+            "APIHost": "https://vsoftrunners.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 7,
             "ShowLogo": true
@@ -483,7 +483,7 @@
         {
             "ClientID": 562234,
             "CompanyName": "Trust Delivery",
-            "APIHost": "https://vsoftrunners2.com-eg.net",
+            "APIHost": "https://vsoftrunners.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 7,
             "ShowLogo": true
@@ -491,7 +491,7 @@
         {
             "ClientID": 125538,
             "CompanyName": "MelokExpress",
-            "APIHost": "https://vsoftrunners2.com-eg.net",
+            "APIHost": "https://vsoftrunners.com-eg.net",
             "APIPath": "/",
             "ApiVersion": 7,
             "ShowLogo": true
