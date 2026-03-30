@@ -503,6 +503,14 @@
             "APIPath": "/",
             "ApiVersion": 7,
             "ShowLogo": true
+        },
+        {
+            "ClientID": 694920,
+            "CompanyName": "Bahlol",
+            "APIHost": "https://vsoftrunners.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 7,
+            "ShowLogo": true
         }
     ]
 }
