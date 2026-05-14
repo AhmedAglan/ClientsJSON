@@ -1033,6 +1033,17 @@
             "Background":"",
             "IsSubscription":true,
             "BasicColor":"#011B7B"
+        },
+        {
+            "ClientID": 591018,
+            "CompanyName": "Rydex",
+            "APIHost": "https://vsoftapi.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 6,
+            "Logo":"",
+            "Background":"",
+            "IsSubscription":true,
+            "BasicColor":"#011B7B"
         }
     ]
 }
