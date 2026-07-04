@@ -121,6 +121,14 @@
             "ShowLogo": true
         },
         {
+            "ClientID": 200100,
+            "CompanyName": "DevAMD",
+            "APIHost": "https://vsoftrunners.com-eg.net",
+            "APIPath": "/",
+            "ApiVersion": 7,
+            "ShowLogo": true
+        },
+        {
             "ClientID": 231303,
             "CompanyName": "MrDelivery",
             "APIHost": "https://vsoftrunners.com-eg.net",
